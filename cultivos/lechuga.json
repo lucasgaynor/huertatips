@@ -1,0 +1,49 @@
+{
+
+    "id": "lechuga", 
+
+    "nombre": "Lechuga",
+
+    "nombreCientifico": "Lactuca sativa",
+
+    "descripcion": "Se consume todo el año en ensaladas", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año (evitando los meses más calurosos)",
+        "diasACosecha": "60 a 100"
+    }, 
+
+    "forma": "Directa y raleo", 
+
+    "clima": "La temperatura ideal varía entre 13 y 18 grados. Los suelos, para el desarrollo óptimo, tienen que tener PH neutro, estar sueltos y bien abonados",     
+    
+    "cuidadosEspeciales": "Es conveniente escalonar la siembra para tener lechugas disponibles para cosechar permanentemente.", 
+  
+    "enfermedades": {
+        "enfermedades": "Esclerotinia (rotar con remolacha o cebolla), Septoria.", 
+        "insectos": "Pulgones, trips y chinches"
+    },   
+
+    "asociarCon": "cebolla, puerro, zanahoria, avrveja, espinaca, haba, rúcula", 
+ 
+    "maceta": {
+        "volumen": 3, 
+        "profundidad": 10
+    }, 
+
+    "huerto": {
+        "plantas": 15, 
+        "filas": 25, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Imperial 847, Grandes Lagos, Climax, Gallega, Grand Rapid, Crimor, Batavia, Brisa, Criolla Blanca",
+
+    "informacionAdicional": "Es conveniente elegir la variedad según la época del año. Existen variedades (como la Criolla) que se adaptan mejor al calor que otras.",
+    
+    "images": [
+        "img/lechuga/lechuga01.jpg"
+    ]
+
+
+}

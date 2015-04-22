@@ -1,0 +1,51 @@
+{
+
+    "id": "pimiento", 
+
+    "nombre": "Pimiento",
+
+    "nombreCientifico": "Capsicum annuum",
+
+
+    "descripcion": "Puede comerse su fruto encurtido, al natural o como condimento en forma de pimentón, ají molido o deshidratado", 
+
+    "calendario": {
+        "epocaDeSiembra": "En almácigos: de julio a septiembre - Trasplante: en septiembre y octubre.",
+        "diasACosecha": "60 a 100"
+    }, 
+
+    "forma": "Almácigo y transplante", 
+
+    "clima": "Requiere temperaturas más elevadas que el tomate. No le convienen las noches con temperaturas menores a los 16 grados. No es exigente en cuanto al suelo, pero se favorece con un suelo fértil y con buen drenaje.",     
+    
+    "cuidadosEspeciales": "Hay que tutoral la planta, aporcar y regar por surco, cuidando de no mojar el tallo o las hojas.", 
+  
+    "enfermedades": {
+        "enfermedades": "Fitophtora, verticilium y fusarium", 
+        "insectos": "Pulgón, Bicho moro"
+    },   
+
+    "asociarCon": "Zanahoria, rabanito, albahaca", 
+ 
+    "maceta": {
+        "volumen": 15, 
+        "profundidad": 20
+    }, 
+
+    "huerto": {
+        "plantas": 40, 
+        "filas": 70, 
+        "profundidad": 1
+            }, 
+
+    "variedades": "Calafyuco INTA, Fyuco INTA",
+
+    "informacionAdicional": "El transplante debe hacerse cuando los plantines tienen seis hojas.",
+
+
+    "images": [
+        "img/pimiento/pimiento01.jpg"
+    ]
+
+
+}

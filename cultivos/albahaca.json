@@ -1,0 +1,50 @@
+{
+
+    "id": "albahaca", 
+
+    "nombre": "Albahaca",
+
+    "nombreCientifico": "Ocimum basilicum",
+
+    "descripcion": "Además de ser una popular planta aromática, es muy beneficiosa en la huerta como repelente de insectos.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Primavera",
+        "diasACosecha": "100"
+    }, 
+
+    "forma": "Almácigo y transplante o directa", 
+
+    "clima": "Necesita sol y calor. No resiste las heladas, por ende hay que sembrarla cuando ya hayan pasado las bajas temperaturas. Para su buen desarrollo es ideal un suelo suelto y de buen drenaje.",     
+    
+    "cuidadosEspeciales": "Hay que podar los tallos florales para que las hojas no pierdan fuerza y sabor. Se puede dejar que algunas plantas florezcan para conservar las semillas.", 
+  
+    "enfermedades": {
+        "enfermedades": "Es un cultivo muy resistente.", 
+        "insectos": "Es en general resistente, pero puede ser atacada por hormigas u orugas."
+    },   
+
+    "asociarCon": "Tomates, zanahoria, lechuga, rabanito", 
+ 
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 10
+    }, 
+
+    "huerto": {
+        "plantas": 30, 
+        "filas": 50, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "De hoja fina, de hoja ancha, morada",
+
+    "informacionAdicional": "Hay que regarla con frecuencia, pero evitando el encharcamiento, para mantener una humedad constante. Mantenerla libre de malas hierbas ayuda a su buen desarrollo.",
+
+    "images": [
+        "img/albahaca/albahaca01.jpg"
+    ]
+
+
+
+}

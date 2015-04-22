@@ -1,0 +1,48 @@
+{
+
+    "id": "ajo", 
+
+    "nombre": "Ajo",
+
+    "nombreCientifico": "Allium sativum",
+
+    "descripcion": "Cada cabeza de ajo puede contener de seis a doce dientes. Cada uno de ellos es capaz de germinar y dar orígen a una nueva planta.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Desde marzo hasta mayo.",
+        "diasACosecha": "210"
+    }, 
+
+    "forma": "No se siembran las semillas, sino los dientes externos más grandes.", 
+
+    "clima": "Es fundamental que tenga sol y buen drenaje. En los suelos demasiado húmedos la cabeza del ajo se pudre.",     
+    
+    "cuidadosEspeciales": "En la primavera hay que cortar el tallo floral, lo que permite un mejor desarrollo de la cabeza. Cuando las hojas se ponen amarillas se puede anudar la planta. Diez días después, el ajo está listo para cosechar." , 
+  
+    "enfermedades": {
+        "enfermedades": "La roya (para prevenirla es importante regar sin mojar las hojas).", 
+        "insectos": "Trips, nemátodos y ácaros."
+    },   
+
+    "asociarCon": "Tomates, lechuga, acelga, escarola", 
+ 
+    "maceta": {
+        "volumen": 3, 
+        "profundidad":25 
+    }, 
+
+    "huerto": {
+        "plantas": 10, 
+        "filas": 40, 
+        "profundidad": 5
+    }, 
+
+    "variedades": "Rosado paraguayo, blanco, colorado, chino, plumado.",
+
+    "informacionAdicional": "Los dientes más grandes son los que darán mejores cabezas. Se puede hacer la siembra sobre lomos o crestas. Siempre es importante evitar el encharcamiento.",
+
+    "images": [
+        "img/ajo/ajo01.jpg"
+    ]
+
+}

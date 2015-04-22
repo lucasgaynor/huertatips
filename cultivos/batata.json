@@ -1,0 +1,49 @@
+{
+
+    "id": "batata", 
+
+    "nombre": "Batata",
+
+    "nombreCientifico":"Ipomoea batatas",
+
+    "descripcion": "Se come su raíz, de sabor dulce, hervida, al horno o frita.", 
+
+    "calendario": {
+        "epocaDeSiembra": "protegida: julio-agosto; desprotegida: setiembre-octubre",
+        "diasACosecha": "130 a 150"
+    }, 
+
+    "forma": "Directa de retoños", 
+
+    "clima": "Es muy sensible al frío. Requiere días y noches cálidas, y un período mayor a cuatro meses sin heladas. No es exigente en cuanto al suelo.",     
+    
+    "cuidadosEspeciales": "Una vez que los plantines están en establecidos en su lugar definitivo se aporca y se libera de malezas. Es importante cuidar el riego cuando la planta está estableciéndose, y sobre el final de su ciclo.", 
+  
+    "enfermedades": {
+        "enfermedades": "Pueden aparecer hongos. En ese caso lo indicado es rotar el cultivo y no plantar en el mismo lugar al año siguiente.", 
+        "insectos": "Es resistente a las plagas."
+    },   
+
+    "asociarCon": "Choclo", 
+ 
+    "maceta": {
+        "volumen": 15, 
+        "profundidad": 35
+    }, 
+
+    "huerto": {
+        "plantas": 40, 
+        "filas": 80, 
+        "profundidad": 5
+    }, 
+
+    "variedades": "Morada INTA, Okinawa 100, Beauregard",
+
+    "informacionAdicional": "Para obtener los plantines se colocan trozos de batatas sanas en una cama con 20cm de profundiad. Las batatas se cubren con tierra y la tierra con film plástico. A los dos meses los pantines pueden ser transplantados a su bancal definitivo.",
+
+  "images": [
+        "img/batata/batata01.jpg"
+    ]
+
+
+}

@@ -1,0 +1,49 @@
+{
+
+    "id": "apio", 
+
+    "nombre": "Apio",
+
+    "nombreCientifico": "Apium graveolens",
+
+    "descripcion": "Tiene muy buenas propiedades nutritivas, pero su cultivo no es fácil. Para que las semillas germinen no hay que colocarlas a mucha profundidad.", 
+
+    "calendario": {
+        "epocaDeSiembra": "de enero a marzo y de septiembre a diciembre",
+        "diasACosecha": "120 a 150"
+    }, 
+
+    "forma": "Almácigo y transplante.", 
+
+    "clima": "Necesita suelos con buena cantidad de materia orgánica. Se puede agregar compost maduro antes del cultivo y durante el crecimiento de la planta.",     
+    
+    "cuidadosEspeciales": "Hay que evitar, al regar, el encharcamiento y mojar las hojas.", 
+  
+    "enfermedades": {
+        "enfermedades": "Mildiu, roya", 
+        "insectos": "Pulgones, mosca de la zanahoria"
+    },   
+
+    "asociarCon": "Puerro, Repollo", 
+ 
+    "maceta": {
+        "volumen": 10, 
+        "profundidad": 30
+    }, 
+
+    "huerto": {
+        "plantas": 20, 
+        "filas": 40, 
+        "profundidad": 0.5
+    }, 
+
+    "variedades": "Apio verde (Pascal, gigante de cortar); Apio amarillo",
+
+    "informacionAdicional": "Para que las pencas sean más tiernas hay que blanquearlas sobre el final del cultivo. Esto significa que hay que cubrir con papel (u otro elemento que bloquee la luz) la parte baja de la planta, dejando libres las hojas",
+
+ "images": [
+        "img/apio/apio01.jpg"
+    ]
+
+
+}

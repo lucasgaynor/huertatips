@@ -1,0 +1,49 @@
+{
+
+    "id": "berenjena", 
+
+    "nombre": "Berenjena",
+
+    "nombreCientifico":"Solanum melongena", 
+
+    "descripcion": "", 
+
+    "calendario": {
+        "epocaDeSiembra": "Almácigo protegido: a partir de julio. Almácigo descubierto: a partir de septiembre",
+        "diasACosecha": "170"
+    }, 
+
+    "forma": "Almácigo y transplante", 
+
+    "clima": "Requiere una larga temporada sin heladas, y es menos resistente al frío que los tomates. Enriquecer el suelo antes de su cultivo con compost maduro. Necesita buen drenaje.",     
+    
+    "cuidadosEspeciales": "Hay que cuidar el riego sobre todo en la época en la que están creciendo los frutos: la berenjena requiere humedad constante.", 
+  
+    "enfermedades": {
+        "enfermedades": "Tizón tardío y mildew (controlar con caldo bordelés).", 
+        "insectos": "Arañuela y pulgones"
+    },   
+
+    "asociarCon": "Poroto, lechuga, copete", 
+ 
+    "maceta": {
+        "volumen": 25, 
+        "profundidad": 30
+    }, 
+
+    "huerto": {
+        "plantas": 40, 
+        "filas": 80, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Florida Market, Black Beauty",
+
+    "informacionAdicional": "Para conservar las semillas, hay que dejar frutos en las plantas hasta que se pongan marrones.",
+
+  "images": [
+        "img/berenjena/berenjena01.jpg"
+    ]
+
+
+}

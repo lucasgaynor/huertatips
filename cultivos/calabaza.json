@@ -1,0 +1,49 @@
+{
+
+    "id": "calabaza", 
+
+    "nombre": "Calabaza",
+    
+    "nombreCientifico": "Curcubita",
+
+    "descripcion": "", 
+
+    "calendario": {
+        "epocaDeSiembra": "A partir de agosto en almácigos. A partir de septiembre, siembra directa.",
+        "diasACosecha": "90 a 120"
+    }, 
+
+    "forma": "Almácigo y transplante o directa", 
+
+    "clima": "No resisten a las heladas, y hay que cultivalas en un lugar con mucho sol. Antes de sembrar, aplicar compost maduro. Para desarrollarse bien la planta necesita un suelo muy fértil.",     
+    
+    "cuidadosEspeciales": "Las flores pueden ser polinizadas manualmente. Para ello hay que idenficar las flores macho (aquellas que no tienen calabaza) y con un pincel chico juntar polen, que hay que depositar con cuidado en una flor hembra (aquellas que tienen una calabaza incipiente en su tallo).", 
+  
+    "enfermedades": {
+        "enfermedades": "Para evitar el ataque de hongos es importante cuidar de no mojar las hojas al regar.", 
+        "insectos": "Vaquita de los melones (Epilachna paenulata) y chinches del zapallo"
+    },   
+
+    "asociarCon": "", 
+ 
+    "maceta": {
+        "volumen": 60, 
+        "profundidad": 40
+    }, 
+
+    "huerto": {
+        "plantas": 120, 
+        "filas": 160, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Calabaza rayada o cordobesa, Anco, Andai",
+
+    "informacionAdicional": "Cuando la calabaza aparece se puede poner un pedazo de teja o algún otro objeto que la separe del suelo, para evitar el riesgo de que se pudra. Al cosecharlas, para que se conserven mejor, es importante dejar unos centímetros de tallo.",
+
+    "images": [
+        "img/calabaza/calabaza01.jpg"
+    ]
+
+
+}

@@ -1,0 +1,49 @@
+{
+
+    "id": "zapallo", 
+
+    "nombre": "Zapallo",
+
+    "nombreCientifico": "Cucurbita maxima", 
+
+    "descripcion": "Se siembra en primavera, se cosecha en verano y se conserva muy bien. También puede ser conservado en forma de dulce", 
+
+    "calendario": {
+        "epocaDeSiembra": "septiembre a noviembre",
+        "diasACosecha": "90 a 150"
+    }, 
+
+    "forma": "Almácigo y transplante o cultivo directo",
+
+    "clima": "Necesita un período de cuatro a cinco meses sin heladas. Puede inciarse su cultivo en almácigos protegidos, o directamente en el exterior, una vez que las heladas hayan pasado.",     
+    
+    "cuidadosEspeciales": "Se pueden sembrar en cada golpe tres semillas. Luego de que germinen elegir la planta más fuerte. Los zapallos requieren de espacio para desarrollarse, y pueden subirse a techos o a tutores. Al regar, cuidar de no mojar las hojas para evitar la aparición de hongos.", 
+  
+    "enfermedades": {
+        "enfermedades": "Oídio (Erysiphe cíchoracearum, Oidium ambrosiae), Antracnosis y Mildiu.", 
+        "insectos": "Vaquita de los melones (Epilachna paenulata) - Chinches del zapallo."
+    },   
+
+    "asociarCon": "Brócoli, Coliflor, Lechuga criolla, Rúcua, Repollo, Maíz, Poroto chaucha", 
+ 
+    "maceta": {
+        "volumen": 60, 
+        "profundidad": 40
+    }, 
+
+    "huerto": {
+        "plantas": 150, 
+        "filas": 200, 
+        "profundidad": 3
+    }, 
+
+    "variedades": "Plomo, Marino de Mendoza, Colorado La Banda INTA 70, Frontera INTA, Anquito Cokena, Inglés, Criollo, Anday, Angola",
+
+    "informacionAdicional": "Cuando el zapallo aparece se puede poner un pedazo de teja o algún otro objeto que lo separe del suelo, para evitar el riesgo de que se pudra. Al cosecharlos, para que se conserven mejor, es importante dejar unos centímetros de tallo.",
+
+    "images": [
+        "img/zapallo/zapallo01.jpg"
+    ]
+
+
+}

@@ -1,0 +1,49 @@
+{
+
+    "id": "cebollaDeVerdeo", 
+
+    "nombre": "Cebolla de verdeo",
+
+    "nombreCientifico": "Allium fistulosum",
+
+    "descripcion": "A diferencia de las cebollas, la cebolla de verdeo no forma bulbo, si no un engrosamiento de su tallo. Ese tallo se cosecha verde, y es la parte de la planta que se consume.", 
+
+    "calendario": {
+        "epocaDeSiembra": "De febrero a abril.",
+        "diasACosecha": "75-110"
+    }, 
+
+    "forma": "Almácigo y trasplante", 
+
+    "clima": "Requiere sol directo y buen drenaje. Prefiere suelos ricos y algo arenosos. Una vez que la planta se establece, no requiere mucho riego.",     
+    
+    "cuidadosEspeciales": "Evitar el riego en exceso y hacerlo sin mojar las hojas.", 
+  
+    "enfermedades": {
+        "enfermedades": "Para evitar la aparición de hongos cuidar de no mojar las hojas al regar.", 
+        "insectos": "Nemátodos, trips y ácaros."
+    },   
+
+    "asociarCon": "Lechuga, Perejil, Rúcula, Zanahoria, Puerro", 
+ 
+    "maceta": {
+        "volumen": 3, 
+        "profundidad": 20
+    }, 
+
+    "huerto": {
+        "plantas": 10, 
+        "filas": 15, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Colorada Chata de Italia, Colorada de verdeo, Ruby, Morada INTA.",
+
+    "informacionAdicional": "Se pueden sembrar en almácigo, o a chorillo, de forma directa. En este último caso es necesario ralear y mantener las plantas más fuertes.",
+
+    "images": [
+        "img/cebollaDeVerdeo/cebollaDeVerdeo01.jpg"
+    ] 
+
+
+}

@@ -1,0 +1,49 @@
+{
+
+    "id": "zanahoria", 
+
+    "nombre": "Zanahoria",
+
+    "nombreCientifico": "Daucus carota",
+
+    "descripcion": "Tiene excelentes propiedades nutritivas, puede cultivarse todo el año y se consume cruda o cocida. Antiguamente no se cultivaba por su raíz, si no por sus semillas y hojas. Hoy, algunas plantas de la familia de la zanahoria conservan esos viejos usos: el perejil, el hinojo, el eneldo y el comino.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año",
+        "diasACosecha": "60 a 85"
+    }, 
+
+    "forma": "Directa y raleo", 
+
+    "clima": "Es importante trabajar bien el suelo antes de sembrar. Los cascotes dificultan el crecimiento de la raíz deformando las zanahorias. Hay que mantener humedad constante en el suelo. Resiste heladas suaves.",     
+    
+    "cuidadosEspeciales": "Es conveniente aplicar un mulching en el suelo, sobre todo en verano, que ayudará a mantener la humedad del suelo.", 
+  
+    "enfermedades": {
+        "enfermedades": "Oidio, Tizón de la hoja",
+        "insectos": ""
+    },   
+
+    "asociarCon": "Lechuga, puerro, rabanito, Rúcula, Acelga, Papa, Poroto chaucha, Repollo", 
+ 
+    "maceta": {
+        "volumen": 2, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas":10, 
+        "filas": 40, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Flakee, Nantesa, Danvers, Chantenay, Criolla INTA y Emperador",
+
+    "informacionAdicional": "",
+
+     "images": [
+        "img/zanahoria/zanahoria01.jpg"
+    ]
+
+
+}

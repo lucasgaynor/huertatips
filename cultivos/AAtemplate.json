@@ -1,0 +1,53 @@
+{
+
+    "id": "", 
+
+    "nombre": "",
+
+    "nombreCientifico": "",
+
+     
+    "descripcion": "", 
+
+    "calendario": {
+        "epocaDeSiembra": "",
+        "diasACosecha": ""
+    }, 
+
+    "forma": "", 
+
+    "clima": ".",     
+    
+    "cuidadosEspeciales": "", 
+  
+    "enfermedades": {
+        "enfermedades": "", 
+        "insectos": ""
+    },   
+
+    "asociarCon": "", 
+ 
+    "maceta": {
+        "volumen": 00, 
+        "profundidad": 00
+    }, 
+
+    "huerto": {
+        "plantas": 00, 
+        "filas": 00, 
+        "profundidad": 00
+    }, 
+
+    "variedades": "",
+
+    "informacionAdicional": "",
+
+    "images": [
+        "img//.jpg", 
+        "img//.jpg", 
+        "img//.jpg", 
+        "img//.jpg"
+    ]
+
+
+}

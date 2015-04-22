@@ -1,0 +1,140 @@
+
+<div class="container-fluid">
+
+<div class="row cultivo">
+
+<div class="col-md-5">
+  <img class="img-responsive"ng-src="{{img}}"
+       class="cultivo"
+       ng-repeat="img in cultivo.images"
+       ng-class="{active: mainImageUrl==img}">
+
+</div>
+
+<div class="col-md-7">
+<h1>{{cultivo.nombre}}</h1>
+<h2>{{cultivo.nombreCientifico}}</h2>
+
+<p>{{cultivo.descripcion}}</p>
+</div>
+
+</div>
+
+
+
+<div class="row">
+
+<div class="col-md-4 cultivo parrafo"> 
+ <dl>   
+ <h4>Calendario</h4>
+
+      <dt>Epoca de cultivo</dt>
+      <dd>{{cultivo.calendario.epocaDeSiembra}}</dd>
+      <dd>{{cultivo.calendario.diasACosecha}} días a cosecha.</dd>
+      <dt>Forma de cultivo</dt>
+      <dd>{{cultivo.forma}}</dd>
+  </dl>
+</div>
+
+
+<div class="col-md-4 cultivo parrafo ng-hide" ng-hide="cultivo.clima.length === 0">
+    <dl>
+    <h4>Clima y Suelo</h4>
+      <dd>{{cultivo.clima}}</dd>
+  </dl>
+  </div>
+
+
+<div class="col-md-4 cultivo parrafo ng-hide" ng-hide="cultivo.variedades.length === 0"> 
+  <dl>
+    <h4>Variedades</h4>
+    <dd>{{cultivo.variedades}}</dd>
+    </dl>
+</div>
+
+</div> <!--CIERRE ROW 1 -->
+
+<div class="row">
+
+<div class="col-md-4 cultivo parrafo"> 
+    <dl>
+    <h4>En el huerto</h4>
+      <dt>Distancia entre plantas</dt>
+      <dd>{{cultivo.huerto.plantas}} centímetros</dd>      
+      <dt>Distancia entre filas</dt>
+      <dd>{{cultivo.huerto.filas}} centímetros</dd>
+      <dt>Profundidad de cultivo</dt>
+      <dd>{{cultivo.huerto.profundidad}} cm.</dd>
+
+    <h4>En maceta</h4>
+      <dt>Volumen de maceta recomendado</dt>
+      <dd>{{cultivo.maceta.volumen}} litros</dd>
+      <dt>Profundidad mínima</dt>
+      <dd>{{cultivo.maceta.profundidad}} centímetros</dd>
+    </dl>
+</div>
+
+<div class="col-md-4 cultivo parrafo ng-hide" ng-hide="cultivo.cuidadosEspeciales.length === 0" > 
+  <dl>
+    <h4>Cuidadados especiales</h4>
+    <dd>{{cultivo.cuidadosEspeciales}}</dd>
+  </dl>
+</div>
+
+
+<div class="col-md-4 cultivo parrafo ng-hide" ng-hide="cultivo.enfermedades.enfermedades.length === 0 && cultivo.enfermedades.insectos.length === 0"> 
+      <dl>
+      <h4>Enfermedades y plagas</h4>
+      <dt ng-hide="cultivo.enfermedades.enfermedades.length === 0" class="ng-hide">Enfermedades</dt>
+      <dd>{{cultivo.enfermedades.enfermedades}}</dd>
+      <dt ng-hide="cultivo.enfermedades.insectos.length === 0" class="ng-hide">Plagas</dt>
+      <dd>{{cultivo.enfermedades.insectos}}</dd>
+    </dl>
+</div>
+
+
+</div> <!--CIERRE ROW 2 -->
+
+
+
+<div class="row">
+
+<div class="col-md-4 cultivo parrafo ng-hide" ng-hide="cultivo.asociarCon.length === 0"> 
+    <dl>
+    <h4>Asociar con</h4>
+    <dd>{{cultivo.asociarCon}}</dd>
+    </dl>
+
+</div>
+
+<div class="col-md-4 cultivo parrafo ng-hide" ng-hide="cultivo.informacionAdicional.length === 0"> 
+    <dl>
+    <h4>Más información</h4>
+    <dd>{{cultivo.informacionAdicional}}</dd>
+  </dl>
+</div>
+
+<div class="col-md-4 cultivo parrafo ng-hide" ng-hide="cultivo.asociacion.length === 0">  
+<dl>
+<h4>Asociar con</h4>
+<dh><li ng-repeat="asociacion in cultivo.asociacion">  <a href="#/cultivos/{{asociacion | lowercase}}">{{asociacion}}</a></li>
+</dh>
+</dl>
+
+</div>
+
+</div> <!--CIERRE ROW 3 -->
+
+
+
+
+<!-- Static bottom navbar -->
+<div class="navbar navbar-default navbar-bottom">
+  <div class="container">
+   <div class="navbar-header">
+      <a class="navbar-navegacion navbar-brand" href="javascript:history.back()"> <i class="fa fa-arrow-left"></i> Volver</a>
+    </div> 
+</div>
+
+
+</div> <!--CIERRE CONTAINER FLUID-->

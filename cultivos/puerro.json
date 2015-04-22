@@ -1,0 +1,49 @@
+{
+
+    "id": "puerro", 
+
+    "nombre": "Puerro",
+
+    "nombreCientifico": "Allium ampeloprasum var. porrum",
+
+    "descripcion": "De la familia de la cebolla y el ajo. Se pueden comer sus hojas, bulbo y flores.", 
+
+    "calendario": {
+        "epocaDeSiembra": "de Febrero a Mayo y de Agosto a Septiembre",
+        "diasACosecha": "120 a 150"
+    }, 
+
+    "forma": "Almácigo y transplante",
+
+    "clima": "Se desarrolla bien en clima templado. Es importante que el suelo tenga buen drenaje.",     
+    
+    "cuidadosEspeciales": "Evitar mojar las hojas al regar.", 
+  
+    "enfermedades": {
+        "enfermedades": "Mildiu, Roya", 
+        "insectos": "Trips, Mosca de la cebolla"
+    },   
+
+    "asociarCon": "apio, lechuga, rúcula, zanahoria, coliflor, escarola, repollo", 
+ 
+    "maceta": {
+        "volumen": 4,
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 15, 
+        "filas": 40, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Atal, Selecta y Goliat",
+
+    "informacionAdicional": "Para conservar las semillas del puerro, hay que esperar a que las primeras flores abran sus capullos. Entonces se cortan los tallos florales y se retiran las semillas.",
+
+   "images": [
+        "img/puerro/puerro01.jpg"
+    ]
+
+
+}

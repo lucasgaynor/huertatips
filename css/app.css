@@ -1,0 +1,320 @@
+/* app css stylesheet */
+
+body {
+  padding-top: 70px;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif; 
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 35px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #003300;
+}
+
+h1 {
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #003300;
+}
+
+
+a {
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    color: #003300;
+}
+
+
+
+/*LISTA DE CULTIVOS EN MES*/
+
+.cultivosEnMes {
+  margin-top: 50px;
+  margin-left: -50px;
+  list-style: none;
+  font-size: 20px;
+}
+
+.cultivosEnMes a {
+font-size: 24px;
+}
+
+
+.cultivosEnMes a:hover {
+  font-weight: bold;
+  text-decoration: none;
+  color: green;
+}
+
+.cultivosEnMes li {
+  clear: both;
+  height: 115px;
+  padding-top: 15px;
+}
+
+.thumb {
+  float: left;
+  margin: -0.5em 1em 1.5em 0;
+  padding-bottom: 1em;
+  height: 100px;
+  width: 100px;
+}
+
+
+
+/*LISTA TODOS LOS CULTIVOS*/
+
+.listaDeCultivos h1 {
+font-size: 5vmin;
+}
+
+/*CALENDARIO MESES */
+/*OJO ANUAL CON DISPLAY:NONE;*/
+
+.calendario {
+  margin-left: -50px;
+}
+
+.calendario li:first-child {
+  display: none;
+}
+
+.calendario h2 {
+  font-size: 4vh;
+  margin:0px;
+}
+
+.calendario li {
+  margin-bottom: 1vh;
+  height: 6vh;
+}
+
+
+.mesEnCurso {
+  -webkit-animation-name: mesEnCurso-back-pulse;
+  animation-name: mesEnCurso-back-pulse;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  background-color: white;
+  background-color: white;
+  color: white;
+}
+@-webkit-keyframes mesEnCurso-back-pulse {
+  50% {
+    background-color: #E7EBE7;
+  }
+}
+@keyframes mesEnCurso-back-pulse {
+  50% {
+    background-color: #E7EBE7;
+  }
+}
+
+
+/*HOME*/ 
+
+
+.brand-heading {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top:70px;
+    text-transform: none;
+    border-bottom: 0px;
+    margin-bottom: 0px;
+
+}
+
+.intro-text {
+    font-size: 18px;
+    color: #003300;
+
+}
+
+
+@media(min-width:767px) {
+    .intro {
+        height: 100%;
+        padding: 0;
+    }
+
+    .brand-heading {
+        font-size: 100px;
+    }
+
+    .intro-text {
+        font-size: 25px;
+    }
+}
+
+.hoja {
+    font-size: 6vh;
+    margin-top:15vh;
+    margin-bottom: 0px;
+}
+
+.hoja a:hover {
+  color:green;
+  text-decoration:none;
+}
+
+
+.showme{ 
+  display: none;
+  color:green;
+  text-decoration:none;
+  font-size:1vh;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+
+
+
+
+/** DETALLE DE CULTIVOS **/
+
+
+img.cultivo {
+  float: left;
+  margin-right: 3em;
+  margin-bottom: 2em;
+  padding: 2em;
+  background-color: white;
+  display: none;
+}
+
+
+ul.cultivo-thumbs {
+  margin: 0;
+  list-style: none;
+}
+
+ul.cultivo-thumbs li {
+  border: 1px solid black;
+  display: inline-block;
+  margin: 1em;
+  background-color: white;
+}
+
+ul.cultivo-thumbs img {
+  height: 100px;
+  width: 100px;
+}
+
+ul.cultivo-thumbs img:hover {
+  cursor: pointer;
+}
+
+
+.cultivo h1 {
+  margin-bottom:5px;
+  margin-left: 0px;
+  display: block;
+}
+
+.cultivo h2 {
+font-size: 20px;
+font-style: italic;
+text-transform: none;
+font-weight: normal;
+margin-bottom: 35px;
+}
+
+
+.cultivo h4 {
+  text-transform: none;
+  margin: 8px;
+}
+
+
+.cultivo dl {
+  border: 1px solid gray;
+  border-radius: 7px;
+  margin-top: 8px;
+  margin-right: 8px;
+}
+
+.cultivo dt {
+   font-weight: bold;
+   margin: 8px;
+}
+
+.cultivo dd {
+  margin-bottom: 8px;
+  margin: 8px;
+}
+
+.cultivo li {
+  list-style: none;
+  margin-left: 8px;
+}
+
+
+/*NAVBAR*/
+
+.light {
+    font-weight: 400;
+    text-transform: lowercase;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.navbar-default {
+  border-bottom-color: green;
+}
+
+
+.content-section {
+    padding-top: 100px;
+}
+
+a:focus {
+    outline: none;
+}
+
+.navbar-navegacion {
+     font-weight: 700;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+}
+
+
+/*CONTACTO*/
+
+.contacto h1 {
+  margin-top: 70px;
+}
+
+.contacto li {
+  margin:10px;
+}
+
+.contacto p {
+  margin: 30px;
+  padding:10px;
+}
+
+
+

@@ -1,0 +1,49 @@
+{
+
+    "id": "tomillo", 
+
+    "nombre": "tomillo",
+
+    "nombreCientifico":"Thymus vulgaris", 
+
+    "descripcion": "Es una planta aromática que forma tallos leñosos, con alturas de 10 a 40 centímetros. Sus hojas se usan como condimento en la cocina, pero también se cultiva para la extracción de su aceite escencial.", 
+
+    "calendario": {
+        "epocaDeSiembra": "En primavera y otoño.",
+        "diasACosecha": "100"
+    }, 
+
+    "forma": "Almácigo o por esquejes.", 
+
+    "clima": "El tomillo resiste temperaturas frías, pero es bueno protegerlo de las heladas. Resiste también épocas de sequía, pero no el exceso de agua. Hay que regar muy poco, y no regar si llovió.",     
+    
+    "cuidadosEspeciales": "La poda del tomillo se hace en otoño. Hay que quitar ramas, flores y hojas secas para revitalizar la planta. Es conveniente realizar la cosecha en días secos. Se puede conservar en frascos, una vez que las hojas fueron secadas en un lugar ventilado.", 
+  
+    "enfermedades": {
+        "enfermedades": "Si el suelo está demasiado húmedo, pueden aparecer hongos. Más allá de eso, el tomillo no tiene problemas de enfermedades ni plagas.", 
+        "insectos": ""
+    },   
+
+    "asociarCon": "", 
+ 
+    "maceta": {
+        "volumen": 4, 
+        "profundidad": 15
+    }, 
+
+    "huerto": {
+        "plantas": 30, 
+        "filas": 50, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Tomillo común, tomillo español (Thymus zigis)",
+
+    "informacionAdicional": "Al requerir poca agua y un suelo árido, es bueno plantarlo con otras aromáticas que no requieren mucha humedad: como el romero y el orégano.",
+
+  "images": [
+        "img/tomillo/tomillo01.jpg"
+    ]
+
+
+}

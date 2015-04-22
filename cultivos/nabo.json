@@ -1,0 +1,49 @@
+{
+
+    "id": "nabo", 
+
+    "nombre": "Nabo",
+
+    "nombreCientifico": "brassica rapa var. rapa",
+
+    "descripcion": "Se cultiva para el consumo de su raíz, que está engrosada en su parte superior. Fue un alimento central en la cocina europea, sobre todo antes de la aparición de la papa.", 
+
+    "calendario": {
+        "epocaDeSiembra": "De marzo a mayo",
+        "diasACosecha": "60 a 80"
+    }, 
+
+    "forma": "Directa, a golpe.", 
+
+    "clima": "Es muy resistente al frío. Por el contrario, los calores fuertes afectan el crecimiento del nabo. Cuando florecen cambia la textura de la raíz y deja de ser comestible.",     
+    
+    "cuidadosEspeciales": "Es importante regar con frecuencia y en abundacia.", 
+  
+    "enfermedades": {
+        "enfermedades": "", 
+        "insectos": "Orugas, pulgones, gusanos grises, caracoles y babosas."
+    },   
+
+    "asociarCon": "", 
+ 
+    "maceta": {
+        "volumen": 4, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 10, 
+        "filas": 30, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Bola de Nieve, Bola de Oro, Blanco Globo, Blanco Plano Temprano, Redondo Virtudes, Croissy, Negro Alsacia, Cuerno de Buey, Milano.",
+
+    "informacionAdicional": "Al estar afectado por las mismas plagas que los repollos y el coliflor, no se recomienda plantarlos cerca, para evitar los contagios.",
+
+    "images": [
+        "img/nabo/nabo01.jpg"
+    ]
+
+
+}

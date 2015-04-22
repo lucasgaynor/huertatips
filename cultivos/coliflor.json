@@ -1,0 +1,46 @@
+{
+
+    "id": "coliflor", 
+
+    "nombre": "Coliflor",
+
+    "descripcion": "Se consume su inflorescencia, llamada pella", 
+
+    "calendario": {
+        "epocaDeSiembra": "Almácigo Octubre-Diciembre (variedades tempranas) / Marzo-Abril (variedades tardías)",
+        "diasACosecha": "90 a 200"
+    }, 
+
+    "forma": "Almácigo y transplante", 
+
+    "clima": "Requiere suelo bien abonado y rico en nutrientes. Para formar su cabeza, el coliflor necesita un período de frío",     
+    
+    "cuidadosEspeciales": "Aporcar luego de que los plantines transplantados se establecen en el bancal definitivo.", 
+  
+    "enfermedades": {
+        "enfermedades": "Podredumbre negra", 
+        "insectos": "orugas de las coles, pulgón"
+    },   
+
+    "asociarCon": "Taco de reina, ajenjo, remolacha", 
+ 
+    "maceta": {
+        "volumen": 15, 
+        "profundidad": 30
+    }, 
+
+    "huerto": {
+        "plantas": 50, 
+        "filas": 80, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Early Snow ball, Gigante de Nápoles, Súper Snowball",
+
+    "informacionAdicional": "",
+
+ "images": [
+        "img/coliflor/coliflor01.jpg"
+    ]
+
+}

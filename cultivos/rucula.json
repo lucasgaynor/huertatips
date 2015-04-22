@@ -1,0 +1,49 @@
+{
+
+    "id": "rucula", 
+
+    "nombre": "Rúcula",
+
+    "nombreCientifico": "Eruca sativa",
+
+    "descripcion": "De muy fácil cultivo y rápido crecimiento. Tiene sabor picante y queda muy bien junto a otras verduras en ensaladas.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año",
+        "diasACosecha": "30"
+    }, 
+
+    "forma": "directa, al voleo", 
+
+    "clima": "Puede cultivarse todo el año. No tiene mayores exigencias en cuanto al suelo.",     
+    
+    "cuidadosEspeciales": "Se recomienda hacer siembras escalonadas para tener brotes de rúcula de forma permanente.", 
+  
+    "enfermedades": {
+        "enfermedades": "Peronóspora de la rúcula", 
+        "insectos": "Orugas"
+    },   
+
+    "asociarCon": "Taco de reina, ajenjo, zanahoria, apio, diente de león", 
+ 
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 15
+    }, 
+
+    "huerto": {
+        "plantas": 2, 
+        "filas": 2, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "",
+
+    "informacionAdicional": "Para recolectar semillas es necesario dejar que algunas plantas florezcan. Cuando comienza a secarse el tallo floral, pueden retirarse las semillas de las vainas y conservarlas una vez secas en un sobre de papel.",
+
+    "images": [
+        "img/rucula/rucula01.jpg"
+    ]
+
+
+}

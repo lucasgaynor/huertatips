@@ -1,0 +1,48 @@
+{
+
+    "id": "repollo", 
+
+    "nombre": "Repollo",
+
+    "nombreCientifico":"Brassica oleracea var. capitata L",
+
+    "descripcion": "Las hojas lisas del repollo forman un cogollo compacto. Se puede comer crudo, cocido o encurtido.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año.",
+        "diasACosecha": "90 a 120"
+    }, 
+
+    "forma": "Almácigo y transplante.", 
+
+    "clima": "Si se eligen las variedades adecuadas, puede sembrarse el almácigo todo el año. Para su desarrollo afuera, las plantas prefieren temperaturas entre 15 y 20 grados. Los suelos deben ser ricos en materia orgánica, sueltos y con buen drenaje.",     
+    
+    "cuidadosEspeciales": "Carpir, desmalezar y aporcar a medida que la planta crece.", 
+  
+    "enfermedades": {
+        "enfermedades": "Bacterias (producen marchitamiento), hernia de las coles.", 
+        "insectos": "Pulgón, oruga de las coles y polilla de coles."
+    },   
+
+    "asociarCon": "Lechuga, Apio, Zanahoria, Remolacha, Cebolla, Puerro", 
+ 
+    "maceta": {
+        "volumen": 25, 
+        "profundidad": 30
+    }, 
+
+    "huerto": {
+        "plantas": 50, 
+        "filas": 70, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Red Head, Rocky, Gloria, Brunswick, Corazón de buey, Fortuna",
+
+    "informacionAdicional": "Una excelente forma de conservar el repollo es mediante la preparación de chucrut.",
+
+    "images": [
+        "img/repollo/repollo01.jpg"
+    ]
+
+}

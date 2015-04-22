@@ -1,0 +1,48 @@
+{
+
+    "id": "papa", 
+
+    "nombre": "Papa",
+
+    "nombreCientifico": "Solanum tuberosum",
+
+    "descripcion": "Se consumen sus tubérculos, hervidos, al horno o fritos. Es importante que las papas que usemos para sembrar no tengan enfermedades, que luego puedan transmitirse al suelo.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Primavera",
+        "diasACosecha": "120 a  150"
+    }, 
+
+    "forma": "Se usan los tubérculos brotados", 
+
+    "clima": "Las papas no toleran heladas, por ende hay que esperar a que el frío haya pasado para sembrarlas.",     
+    
+    "cuidadosEspeciales": "Se plantan trozos de 30 a 50 gramos, que hayan brotado. Se dejan hasta tres ojos (o brotes) por cada trozo. A medida que la planta crece se le hacen aporques para evitar que las papas se vean afectadas por la luz (que arruina los tubérculos).", 
+  
+    "enfermedades": {
+        "enfermedades": "Tizón, sarna negra, fusariosis", 
+        "insectos": "Pulgones, minadora"
+    },   
+
+    "asociarCon": "Lechuga, alcaucil", 
+ 
+    "maceta": {
+        "volumen": 10, 
+        "profundidad": 30
+    }, 
+
+    "huerto": {
+        "plantas": 30, 
+        "filas": 70, 
+        "profundidad": 5
+    }, 
+
+    "variedades": "Spunta, Innovator, Pampeana INTA, Calén INTA",
+
+    "informacionAdicional": "Si las papas presentan zonas verdes no deben ser consumidas, porque son tóxicas.",
+
+    "images": [
+        "img/papa/papa01.jpg"
+    ]
+
+}

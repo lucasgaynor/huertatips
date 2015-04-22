@@ -1,0 +1,49 @@
+{
+
+    "id": "remolacha", 
+
+    "nombre": "Remolacha",
+
+    "nombreCientifico": "Beta vulgaris",
+
+    "descripcion": "Se consumen sus raíces. También pueden aprovecharse los brotes tiernos de las hojas en ensaladas, o sus hojas crecidas, en buñuelos.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año",
+        "diasACosecha": "60 a 120"
+    }, 
+
+    "forma": "Directa y raleo", 
+
+    "clima": "Si bien puede cultivarse todo el año, es bueno evitar los meses más calurosos. La temperatura óptima es hasta los 22 grados. Necesita un suelo suelto, bien trabajado, fértil y con buen drenaje.",     
+    
+    "cuidadosEspeciales": "Cuando las plantas son chicas, hay que tener cuidado especial de remover las malas hierbas, que le quitan fuerza a las remolachas. Luego, realizar aporques periódicos.", 
+  
+    "enfermedades": {
+        "enfermedades": "Cercosporiosis, virosis.", 
+        "insectos": " Pulgón negro, mosca de la remolacha."
+    },   
+
+    "asociarCon": "Repollo, Coliflor, Lechuga, Ajo, Brócoli", 
+ 
+    "maceta": {
+        "volumen": 4, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 15, 
+        "filas": 40, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Detroit, early wonder, chata de egipto",
+
+    "informacionAdicional": "Previo a la siembra es bueno abonar la tierra. Se benefician con suelos altos en potasio.",
+
+    "images": [
+        "img/remolacha/remolacha01.jpg"
+    ]
+
+
+}

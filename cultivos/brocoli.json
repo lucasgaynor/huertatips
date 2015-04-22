@@ -1,0 +1,48 @@
+{
+
+    "id": "brocoli", 
+
+    "nombre": "Brócoli",
+
+    "nombreCientifico":"Brassica oleracea italica",
+
+    "descripcion": "Se cultiva para consumir sus yemas florales y la parte tierna de sus tallos.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año",
+        "diasACosecha": "70 a 100"
+    }, 
+
+    "forma": "Almácigo y transplante", 
+
+    "clima": "Entre los 16 y los 18 grados crece de forma óptima. Resiste a las heladas, pero deja manchas marrones en sus yemas florales. El suelo ideal es firme y abonado antes de su cultivo.",     
+    
+    "cuidadosEspeciales": "En verano se puede aplicar un mulch en el suelo. Es importante quitar las malas hierbas.", 
+  
+    "enfermedades": {
+        "enfermedades": "", 
+        "insectos": ""
+    },   
+
+    "asociarCon": "Remolacha, ajenjo, taco de reina", 
+ 
+    "maceta": {
+        "volumen": 15, 
+        "profundidad": 30
+    }, 
+
+    "huerto": {
+        "plantas": 40, 
+        "filas": 70, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Pinnacle, Emperor, Gallart, Big-Sur",
+
+    "informacionAdicional": "Cuando se comienzan a abrir los primeros capullos hay que cosechar, cortando con un cuchillo los tallos. Para conservar semillas, hay que esperar que la planta se ponga amarilla.",
+
+  "images": [
+        "img/brocoli/brocoli01.jpg"
+    ]
+
+}

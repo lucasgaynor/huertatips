@@ -1,0 +1,226 @@
+[
+    {
+        "age": [2, 3, 4, 5, 6, 8, 9, 10, 11, 12], 
+        "id": "acelga", 
+        "imageUrl": "img/acelga/acelga01.jpg", 
+        "name": "Acelga"
+    }, 
+    {
+        "age": [3, 4, 5],
+        "id": "ajo", 
+        "imageUrl": "img/ajo/ajo01.jpg", 
+        "name": "Ajo" 
+    }, 
+    {
+        "age": [8, 9], 
+        "id": "albahaca", 
+        "imageUrl": "img/albahaca/albahaca01.jpg", 
+        "name": "Albahaca" 
+    }, 
+    {
+        "age": [1, 2, 3, 4, 9, 10, 11, 12],
+        "id": "apio", 
+        "imageUrl": "img/apio/apio01.jpg", 
+        "name": "Apio"
+    }, 
+    {
+        "age": [4, 5, 6, 7], 
+        "id": "arveja", 
+        "imageUrl": "img/arveja/arveja01.jpg", 
+        "name": "Arveja"
+    },
+    {
+        "age": [7, 8, 9, 10], 
+        "id": "batata", 
+        "imageUrl": "img/batata/batata01.jpg", 
+        "name": "Batata"
+    }, 
+    {
+        "age": [7,8,9,10], 
+        "id": "berenjena", 
+        "imageUrl": "img/berenjena/berenjena01.jpg", 
+        "name": "Berenjena" 
+    },  
+    {
+        "age": 0, 
+        "id": "brocoli", 
+        "imageUrl": "img/brocoli/brocoli01.jpg", 
+        "name": "Brócoli"
+    }, 
+    {
+        "age": 10, 
+        "id": "calabaza", 
+        "imageUrl": "img/calabaza/calabaza01.jpg", 
+        "name": "Calabaza"
+    }, 
+    {
+        "age": [2, 3, 4, 5, 6], 
+        "id": "cebolla", 
+        "imageUrl": "img/cebolla/cebolla01.jpg", 
+        "name": "Cebolla" 
+    },
+    {
+        "age": [2, 3, 4], 
+        "id": "cebollaDeVerdeo", 
+        "imageUrl": "img/cebollaDeVerdeo/cebollaDeVerdeo01.jpg", 
+        "name": "Cebolla de verdeo" 
+    },  
+    {
+        "age": [8, 9, 10, 11, 12], 
+        "id": "cebollino", 
+        "imageUrl": "img/cebollino/cebollino01.jpg", 
+        "name": "Cebollino" 
+    }, 
+    {
+        "age": [3, 4, 10, 11], 
+        "id": "coliflor", 
+        "imageUrl": "img/coliflor/coliflor01.jpg", 
+        "name": "Coliflor" 
+    }, 
+    {
+        "age": 0, 
+        "id": "escarola", 
+        "imageUrl": "img/escarola/escarola01.jpg", 
+        "name": "Escarola" 
+    },     
+    {
+        "age": [3, 4, 5, 6, 7, 8], 
+        "id": "espinaca", 
+        "imageUrl": "img/espinaca/espinaca01.jpg", 
+        "name": "Espinaca" 
+    }, 
+    {
+        "age": [4,5,6,7],
+        "id": "haba", 
+        "imageUrl": "img/haba/haba01.jpg", 
+        "name": "Haba" 
+    }, 
+    {
+        "age": 0, 
+        "id": "lechuga", 
+        "imageUrl": "img/lechuga/lechuga01.jpg", 
+        "name": "Lechuga" 
+    }, 
+    {
+        "age": [9,10,11], 
+        "id": "maiz", 
+        "imageUrl": "img/maiz/maiz01.jpg", 
+        "name": "Maíz dulce" 
+    }, 
+    {
+        "age": 10, 
+        "id": "melon", 
+        "imageUrl": "img/melon/melon01.jpg", 
+        "name": "Melón" 
+    },
+    {
+        "age": [3, 4, 5], 
+        "id": "nabo", 
+        "imageUrl": "img/nabo/nabo01.jpg", 
+        "name": "Nabo" 
+    },  
+    {
+        "age": 9, 
+        "id": "papa", 
+        "imageUrl": "img/papa/papa01.jpg", 
+        "name": "Papa"
+    }, 
+    {
+        "age": [9, 10], 
+        "id": "pepino", 
+        "imageUrl": "img/pepino/pepino01.jpg", 
+        "name": "Pepino"
+    }, 
+    {
+        "age": 0, 
+        "id": "perejil", 
+        "imageUrl": "img/perejil/perejil01.jpg", 
+        "name": "Perejil"
+    }, 
+    {
+        "age": [7, 8, 9, 10], 
+        "id": "pimiento", 
+        "imageUrl": "img/pimiento/pimiento01.jpg", 
+        "name": "Pimiento"
+    }, 
+    {
+        "age": [1, 9, 10, 11], 
+        "id": "porotoChaucha", 
+        "imageUrl": "img/porotoChaucha/porotoChaucha01.jpg", 
+        "name": "Poroto Chaucha" 
+    }, 
+    {
+        "age": 2, 
+        "id": "puerro", 
+        "imageUrl": "img/puerro/puerro01.jpg",
+        "name": "Puerro" 
+    }, 
+    {
+        "age": 0, 
+        "id": "rabanito", 
+        "imageUrl": "img/rabanito/rabanito01.jpg", 
+        "name": "Rabanito" 
+    }, 
+    {
+        "age": 0, 
+        "id": "radicheta", 
+        "imageUrl": "img/radicheta/radicheta01.png",
+        "name": "Radicheta" 
+    }, 
+    {
+        "age": 0, 
+        "id": "remolacha", 
+        "imageUrl": "img/remolacha/remolacha01.jpg", 
+        "name": "Remolacha"
+    }, 
+    {
+        "age": 0, 
+        "id": "repollo", 
+        "imageUrl": "img/repollo/repollo01.jpg", 
+        "name": "Repollo" 
+    },
+    {
+        "age": [3, 4, 5, 6],
+        "id": "romero", 
+        "imageUrl": "img/romero/romero01.jpg", 
+        "name": "Romero" 
+    },
+    {
+        "age": 0, 
+        "id": "rucula", 
+        "imageUrl": "img/rucula/rucula01.jpg", 
+        "name": "Rúcula" 
+    },
+    {
+        "age": [7, 8, 9, 10, 11], 
+        "id": "tomate", 
+        "imageUrl": "img/tomate/tomate01.jpg", 
+        "name": "Tomate" 
+    }, 
+    {
+        "age": [3, 4, 5, 9, 10], 
+        "id": "tomillo", 
+        "imageUrl": "img/tomillo/tomillo01.jpg", 
+        "name": "Tomillo" 
+    }, 
+    {
+        "age": 0, 
+        "id": "zanahoria", 
+        "imageUrl": "img/zanahoria/zanahoria01.jpg", 
+        "name": "Zanahoria"
+    },
+    {
+        "age": [1, 9, 10, 11, 12], 
+        "id": "zapallito", 
+        "imageUrl": "img/zapallito/zapallito01.jpg", 
+        "name": "Zapallito" 
+    },
+    {
+        "age": [9,10,11], 
+        "id": "zapallo", 
+        "imageUrl": "img/zapallo/zapallo01.jpg", 
+        "name": "Zapallo"
+    }
+
+
+]

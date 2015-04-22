@@ -1,0 +1,49 @@
+{
+
+    "id": "maiz", 
+
+    "nombre": "Maíz",
+
+    "nombreCientifico": "Zea mays",
+
+    "descripcion": "Originario de América. Se consumen los granos de la mazorca. El maíz se siembra en todos los países de América Latina, y es una parte fundamental de nuestra alimentación.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Primavera",
+        "diasACosecha": "70 a 120"
+    }, 
+
+    "forma": "directa a golpe",
+
+    "clima": "Requiere un clima templado y cálido, y sólo puede ser sembrado afuera cuando hayan pasado los peligros de helada.",     
+    
+    "cuidadosEspeciales": "Cuando las plantas tienen medio metro de altura se puede aporcar, para evitar que un viento las tumbe. Requiere humedad para el desarrollo de buenos choclos.", 
+  
+    "enfermedades": {
+        "enfermedades": "", 
+        "insectos": "Isoca de la espiga, orugas perforadoras y orugas cortadoras"
+    },   
+
+    "asociarCon": "batata, porotos, habas, arvejas", 
+ 
+    "maceta": {
+        "volumen": 10, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 30, 
+        "filas": 70, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Abasto INTA, Aztec",
+
+    "informacionAdicional": "15 o 20 días después de que aparezcan las barbas de los choclos se puede empezar la cosecha. Antes de cortarlos, abrir un poco la chala y comprobar la consistencia de los granos, tienen que estar firmes, pero no duros.",
+
+    "images": [
+        "img/maiz/maiz01.jpg"
+    ]
+
+
+}

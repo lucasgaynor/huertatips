@@ -1,0 +1,52 @@
+{
+
+    "id": "acelga", 
+
+    "nombre": "Acelga",
+
+    "nombreCientifico": "Beta vulgaris var. cicla",
+
+    "descripcion": "Aporta vitaminas, ácido fólico y fibra. Se consumen sus hojas y pencas, por lo general cocidas.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año, excepto enero y julio",
+        "diasACosecha": "60 a 80"
+    }, 
+
+    "forma": "Almácigo y transplante o cultivo directo", 
+
+    "clima": "Resiste heladas y también calores de hasta 35 grados. Prefiere suelos sueltos y se beneficia con sumar compost maduro antes de la siembra. Resiste salinidad en el suelo. Por su demanda de nitrógeno es bueno rotar el cultivo con arvejas, porotos o habas",     
+    
+    "cuidadosEspeciales": "Una vez que las plantas sembradas tienen seis hojas, se ralean las plantas más débiles, dejando una distancia de 15 a 20 centímetros entre plantas.", 
+  
+    "enfermedades": {
+        "enfermedades": "La viruela (manchas redondeadas amarillento-pardas) se puede prevenir y controlar con Caldo Bordelés.", 
+        "insectos": "Las orugas, el bicho moro y la chinche verde común, pulgón negro del duraznero. Para prevenirlos es bueno pulverizar con purín de ajo."
+    },   
+
+    "asociarCon": "Lechuga, Escarola, Maíz, Cebolla, Repollo, Coliflor", 
+
+        "asociacion": ["Lechuga", "Escarola", "Maiz", "Cebolla", "Repollo", "Coliflor"
+         ],
+ 
+    "maceta": {
+        "volumen": 25, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 15, 
+        "filas": 50, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Dark Ribbed Green, Verde de Bressane, Blanca de Lyon",
+
+    "informacionAdicional": "Si bien se come en general cocida, los brotes son lo suficientemente tiernos como para ir directo a una ensalada. Existen variedades de acelgas de color, que además de ser comestibles son decorativas.",
+
+    "images": [
+        "img/acelga/acelga01.jpg"
+    ]
+
+
+}

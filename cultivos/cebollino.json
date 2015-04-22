@@ -1,0 +1,48 @@
+{
+
+    "id": "cebollino", 
+
+    "nombre": "Cebollino",
+
+    "nombreCientifico": "Allium schoenoprasum",
+
+    "descripcion": "El cebollino, o ciboulette, es de la familia de la cebolla, pero no produce bulbo. Se consumen sus hojas y sus flores y puede aprovecharse todo el año. Es ideal consumir las hojas frescas, recién cortadas.", 
+
+    "calendario": {
+        "epocaDeSiembra": "A partir de la primavera.",
+        "diasACosecha": "9 a 120"
+    }, 
+
+    "forma": "Por semilla al voleo o por división de matas.", 
+
+    "clima": "Requiere sol y buen drenaje en el suelo. Resiste heladas suaves.",     
+    
+    "cuidadosEspeciales": "Las flores son comestibles, sin embargo, hay quienes eligen cortarlas para que las hojas mantengan todo su sabor. Cortando con regularidad el cebollino obtenemos brotes frescos y de buena calidad. Mantener el suelo libre de malezas." , 
+  
+    "enfermedades": {
+        "enfermedades": "Mildiu y la roya (para prevenirla es importante regar sin mojar las hojas).", 
+        "insectos": "Trips, nemátodos y ácaros."
+    },   
+
+    "asociarCon": "Zanahoria, perejil, rúcula, lechuga, acelga, escarola", 
+ 
+    "maceta": {
+        "volumen": 3, 
+        "profundidad":15 
+    }, 
+
+    "huerto": {
+        "plantas": 10, 
+        "filas": 20, 
+        "profundidad": 1
+            }, 
+
+    "variedades": "",
+
+    "informacionAdicional": "La reproducción por división de matas es beneficiosa para la planta.",
+
+    "images": [
+        "img/cebollino/cebollino01.jpg"
+    ]
+
+}

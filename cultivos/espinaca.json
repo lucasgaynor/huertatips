@@ -1,0 +1,49 @@
+{
+
+    "id": "espinaca", 
+
+    "nombre": "Espinaca",
+
+    "nombreCientifico": "Spinacia oleracea",
+
+    "descripcion": "Se pueden comer sus hojas cocidas, o sus brotes crudos en ensaladas. Tiene un aporte importante de vitaminas", 
+
+    "calendario": {
+        "epocaDeSiembra": "de marzo a agosto.",
+        "diasACosecha": "40 a 75"
+    }, 
+
+    "forma": "Directa", 
+
+    "clima": "Tiene resistencia a heladas suaves. Las altas temperaturas no le convienen. Se recomienda su rotación con leguminosas, y un suelo rico en nutrientes.",     
+    
+    "cuidadosEspeciales": "Se siembra a chorrillo, y luego se ralea dejando las plantas más fuertes.", 
+  
+    "enfermedades": {
+        "enfermedades": "Hongos pythium y fusarium", 
+        "insectos": "Pulgones"
+    },   
+
+    "asociarCon": "Repollo, Coliflor, Brócoli, Remolacha", 
+ 
+    "maceta": {
+        "volumen": 2, 
+        "profundidad": 15
+    }, 
+
+    "huerto": {
+        "plantas": 10, 
+        "filas": 45, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Jamaica, Amadeo INTA, High Pach, Viroflay, Samos",
+
+    "informacionAdicional": "Conviene regar en poca cantidad y frecuentemente, sobre todo en los días previos a la cosecha.",
+
+  "images": [
+        "img/espinaca/espinaca01.jpg"
+    ]
+
+
+}

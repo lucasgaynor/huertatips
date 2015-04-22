@@ -1,0 +1,12 @@
+<div class=" container listaDeCultivos">
+<h1 class="text-center">{{mes.nombre}}</h1>
+
+
+      <ul class="cultivosEnMes">
+        <li ng-repeat="cultivo in cultivos | filtroMes:''" | class="thumbnail">
+          <a href="#/cultivos/{{cultivo.id}}" class="thumb"><img ng-src="{{cultivo.imageUrl}}"></a>
+          <a href="#/cultivos/{{cultivo.id}}">{{cultivo.name}}</a>
+        </li>
+      </ul>
+
+</div>

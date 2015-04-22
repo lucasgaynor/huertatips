@@ -1,0 +1,9 @@
+
+    <div class="container fluid">
+     <ul class="calendario">
+        <li ng-repeat="mes in meses | filter:query | orderBy:orderProp" class="btn-group btn-group-justified btn-group-fill-height" >
+          <a href="#/meses/{{mes.id}}" class="btn btn-default" ng-class="{mesEnCurso:mes.age === {{date | date:'M'}} }" role="button"><h2>{{mes.name}}</h2></a>
+        </li>
+      </ul>
+    </div>
+

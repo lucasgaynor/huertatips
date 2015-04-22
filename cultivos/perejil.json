@@ -1,0 +1,49 @@
+{
+
+    "id": "perejil", 
+
+    "nombre": "Perejil",
+
+    "nombreCientifico": "Petroselinum crispum",
+
+    "descripcion": "Se consume fresco, o se deshidrata para conservar. Se usa como condimento o en ensaladas.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año, especialmente a fines de primavera y otoño.",
+        "diasACosecha": "60 a 70"
+    }, 
+
+    "forma": "Directa", 
+
+    "clima": "Crece en casi todos los suelos, y en casi todos los climas, pero prefiere temperaturas templadas y cálidas.",     
+    
+    "cuidadosEspeciales": "Se beneficia con riego constante y carpidas periódicas. La semilla del perejil tarda en germinar, pero una vez que la planta está establecida, es muy resistente.", 
+  
+    "enfermedades": {
+        "enfermedades": "Septoria", 
+        "insectos": "Pulgón"
+    },   
+
+    "asociarCon": "Zanahoria, tomates, caléndula, orégano", 
+ 
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 20
+    }, 
+
+    "huerto": {
+        "plantas": 7, 
+        "filas": 40, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Común (o liso) y crespo (o rugoso)",
+
+    "informacionAdicional": "En climas fríos las semillas del perejil pueden tardar hasta 40 días en germinar. Es importante mantener la humedad del sustrato en ese período.",
+
+    "images": [
+        "img/perejil/perejil01.jpg"
+    ]
+
+
+}

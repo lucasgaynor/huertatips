@@ -1,0 +1,48 @@
+{
+
+    "id": "haba", 
+
+    "nombre": "Haba",
+
+    "nombreCientifico": "Vicia faba",
+
+    "descripcion": "Se consumen los granos cocidos, en ensaladas o guisos.", 
+
+    "calendario": {
+        "epocaDeSiembra": "De abril a julio",
+        "diasACosecha": "180"
+    }, 
+
+    "forma": "directa", 
+
+    "clima": "Los suelos con mal drenaje no lo favorecen. Necesita nutrientes y trabajar profundamente la tierra previamente a sembrar.",     
+    
+    "cuidadosEspeciales": "Se despunta el ápice de la planta para favorecer la ramificación. Se colocan tutores para que la planta se sostenga.", 
+  
+    "enfermedades": {
+        "enfermedades": "Gongo Botrytis cinerea o Botrytis fabae (manchas marrones en hojas y tallos)", 
+        "insectos": "Los pulgones se pueden prevenir con purín de ajo o ser removidos a mano con agua jabonosa."
+    },   
+
+    "asociarCon": "Se puede asociar con ajos para repeler a los pulgones.", 
+ 
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 20
+    }, 
+
+    "huerto": {
+        "plantas": 25, 
+        "filas": 70, 
+        "profundidad": 3
+    }, 
+
+    "variedades": "Super Agua Dulce, Sevilla",
+
+    "informacionAdicional": "Antes de plantar, se recomienda dejar una noche las semillas remojando en agua, para que se ablanden y facilite la germinación.",
+
+ "images": [
+        "img/haba/haba01.jpg"
+    ]
+
+}

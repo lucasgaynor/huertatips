@@ -1,0 +1,48 @@
+{
+
+    "id": "romero", 
+
+    "nombre": "Romero",
+
+    "nombreCientifico":"Rosmarinus officinalis",
+
+    "descripcion": "Es una aromática que proviene del Mediterráneo. Tiene un tallo leñoso, y puede alcanzar una altura de hasta 2 metros.", 
+
+    "calendario": {
+        "epocaDeSiembra": "De marzo a junio.",
+        "diasACosecha": "600"
+    }, 
+
+    "forma": "Por esqueje, por semilla o por división de mata.", 
+
+    "clima": "Necesita sol, y no requiere mucho riego. La tierra tiene que tener un muy buen drenaje, y no exige muchos nutrientes. El romero, cuando está establecido, resiste bajas temperaturas.",     
+    
+    "cuidadosEspeciales": "En primavera se puede despuntar para favorecer el crecimiento de la mata. Cada tanto hay que quitar las hojas y ramas secas de la planta.", 
+  
+    "enfermedades": {
+        "enfermedades": "Es importante que drene bien el suelo para evitar la aparición de hongos.", 
+        "insectos": ""
+    },   
+
+    "asociarCon": "Zapallos, zanahoria, habas, porotos.", 
+ 
+    "maceta": {
+        "volumen": 10, 
+        "profundidad": 15
+    }, 
+
+    "huerto": {
+        "plantas": 50, 
+        "filas": 70, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "",
+
+    "informacionAdicional": "Al ubicar las plantas en la huerta hay que tener en cuenta de que es una planta perenne, por lo tanto será su lugar definitivo. Es bueno colocarlas en los costados o esquinas de la huerta.",
+
+    "images": [
+        "img/romero/romero01.jpg"
+    ]
+
+}

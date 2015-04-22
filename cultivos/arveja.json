@@ -1,0 +1,49 @@
+{
+
+    "id": "arveja", 
+
+    "nombre": "Arveja",
+
+    "nombreCientifico":"Pisum sativum",
+
+    "descripcion": "Sus granos se pueden conservar secos o consumir frescos. Además de ser un muy buen cultivo de invierno, el suelo de la huerta se beneficia incluyendola en la rotación de cultivos.", 
+
+    "calendario": {
+        "epocaDeSiembra": "De abril a julio",
+        "diasACosecha": "120 a 150"
+    }, 
+
+    "forma": "De asiento", 
+
+    "clima": "Es ideal el clima templado y templado frío. Se beneficia con inviernos largos y suaves. Es resistente a las heladas y no resiste bien las altas temperaturas. Su suelo ideal es suelto y rico en materia orgánica.",     
+    
+    "cuidadosEspeciales": "Aporcar cuando la planta tiene 15 cm, para favorecer el desarrollo radicular.", 
+  
+    "enfermedades": {
+        "enfermedades": "Tizón, Antracnosis", 
+        "insectos": "Pulgones (que pueden ser removidos con agua jabonosa y un pincel)"
+    },   
+
+    "asociarCon": "Repollo, ajo, zanahoria", 
+ 
+    "maceta": {
+        "volumen": 15, 
+        "profundidad": 35
+    }, 
+
+    "huerto": {
+        "plantas": 5, 
+        "filas": 40, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Onward, Mikado, Cuarentona, Cobrí",
+
+    "informacionAdicional": "Para conservar semillas para la próxima temporada es importante esperar a que las vainas esten amarillas en la planta. Esto indica que los granos están maduros.",
+
+    "images": [
+        "img/arveja/arveja01.jpg"
+    ]
+
+
+}

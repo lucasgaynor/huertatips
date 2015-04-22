@@ -1,0 +1,48 @@
+{
+
+    "id": "rabanito", 
+
+    "nombre": "Rabanito",
+
+    "nombreCientifico": "Raphanus sativus",
+
+    "descripcion": "Es uno de los cultivos más rápidos y fáciles de la huerta. Una excelente alternativa para principiantes. Se consume su raíz, de sabor picante, o sus brotes, frescos, en ensaladas.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año",
+        "diasACosecha": "20 a 30 días"
+    }, 
+
+    "forma": "Al voleo", 
+
+    "clima": "Soporta casi todos los climas, pero su desarrollo es mejor en climas templados. No es exigente en cuanto al suelo, pero siempre es mejor trabajarlo antes de la siembra.",     
+    
+    "cuidadosEspeciales": "Una vez que brotan se hace un raleo dejando las plantas más fuertes. Hay que desmalezar y mantener una humedad constante en el suelo.", 
+  
+    "enfermedades": {
+        "enfermedades": "Al ser una planta de ciclo tan corto, dificilmente se vea afectada por enfermedades o plagas. Puede aparece mildew, en ese caso, retirar las plantas enfermas.", 
+        "insectos": "Pulgón."
+    },   
+
+    "asociarCon": "Espinaca, lechuga, acelga, zanahoria", 
+ 
+    "maceta": {
+        "volumen": 1, 
+        "profundidad": 15
+    }, 
+
+    "huerto": {
+        "plantas": 5, 
+        "filas": 30, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Redondo rosado de punta blanca, Redondo escarlata, Scarlet Globe, Sparkler",
+
+    "informacionAdicional": "",
+
+    "images": [
+        "img/rabanito/rabanito01.jpg"
+    ]
+
+}

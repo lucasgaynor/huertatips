@@ -1,0 +1,48 @@
+{
+
+    "id": "pepino", 
+
+    "nombre": "Pepino",
+
+    "nombreCientifico": "Cucumis sativus",
+
+    "descripcion": "Se cosechan sus frutos, cuando aún están verdes, para consumir en ensaladas o encurtidos.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Primavera",
+        "diasACosecha": "60 a 70"
+    }, 
+
+    "forma": "Directa, a golpe", 
+
+    "clima": "No resiste heladas, y prefiere el clima cálido. Los suelos deben drenar bien y estar preparados con compost antes de la siembra",     
+    
+    "cuidadosEspeciales": "Cuando las plantas tienen seis hojas se puede despuntar para favorecer la ramificación; también se pueden colocar guías para que los pepinos, al crecer, no toquen el piso.", 
+  
+    "enfermedades": {
+        "enfermedades": "Oidio (Erysiphe), Mildiu (Pseudoperonospora) y mosaicos (virosis).", 
+        "insectos": "Vaquita de los melones (Epilachna) y chinches."
+    },   
+
+    "asociarCon": "Maíz, porotos, habas, zanahoria y remolacha", 
+ 
+    "maceta": {
+        "volumen": 20, 
+        "profundidad": 38
+    }, 
+
+    "huerto": {
+        "plantas": 70, 
+        "filas": 90, 
+        "profundidad": 3
+    }, 
+
+    "variedades": "Pointsett, National Pickling",
+
+    "informacionAdicional": "Para evitar la aparición de hongos es importante regar evitando mojar las hojas.",
+
+    "images": [
+        "img/pepino/pepino01.jpg"
+    ]
+
+}

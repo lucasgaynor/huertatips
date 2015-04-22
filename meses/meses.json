@@ -1,0 +1,94 @@
+[
+    {
+        "age": 1, 
+        "id": "enero", 
+        "imageUrl": "img/meses/enero.jpg", 
+        "name": "Enero", 
+        "nombreCorto": "ene"
+    }, 
+    {
+        "age": 2, 
+        "id": "febrero", 
+        "imageUrl": "img/meses/febrero.jpg", 
+        "name": "Febrero", 
+        "nombreCorto": "feb"
+    }, 
+    {
+        "age": 3, 
+        "id": "marzo", 
+        "imageUrl": "img/meses/marzo.jpg", 
+        "name": "Marzo", 
+        "nombreCorto": "mar"
+    }, 
+    {
+        "age": 4, 
+        "id": "abril", 
+        "imageUrl": "img/meses/abril.jpg", 
+        "name": "Abril", 
+        "nombreCorto": "abr"
+    }, 
+    {
+        "age": 5, 
+        "id": "mayo", 
+        "imageUrl": "img/meses/mayo.jpg", 
+        "name": "Mayo", 
+        "nombreCorto": "may"
+    }, 
+    {
+        "age": 6, 
+        "id": "junio", 
+        "imageUrl": "img/meses/junio.jpg", 
+        "name": "Junio", 
+        "nombreCorto": "jun"
+    }, 
+    {
+        "age": 7, 
+        "id": "julio", 
+        "imageUrl": "img/meses/julio.jpg", 
+        "name": "Julio", 
+        "nombreCorto": "jul"
+    }, 
+    {
+        "age": 8, 
+        "id": "agosto", 
+        "imageUrl": "img/meses/agosto.jpg", 
+        "name": "Agosto", 
+        "nombreCorto": "ago"
+    }, 
+    {
+        "age": 9, 
+        "id": "septiembre", 
+        "imageUrl": "img/meses/septiembre.jpg", 
+        "name": "Septiembre", 
+        "nombreCorto": "sep"
+    }, 
+    {
+        "age": 10, 
+        "id": "octubre", 
+        "imageUrl": "img/meses/octubre.jpg", 
+        "name": "Octubre", 
+        "nombreCorto": "oct"
+    }, 
+    {
+        "age": 11, 
+        "id": "noviembre", 
+        "imageUrl": "img/meses/noviembre.jpg", 
+        "name": "Noviembre", 
+        "nombreCorto": "nov"
+    }, 
+    {
+        "age": 12, 
+        "id": "diciembre", 
+        "imageUrl": "img/meses/diciembre.jpg", 
+        "name": "Diciembre", 
+        "nombreCorto": "dic"
+    }, 
+    {
+        "age": 0, 
+        "id": "anual", 
+        "imageUrl": "img/meses/anual.jpg", 
+        "name": "Anual", 
+        "nombreCorto": "año"
+    }
+]
+

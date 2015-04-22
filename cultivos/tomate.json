@@ -1,0 +1,48 @@
+{
+
+    "id": "tomate", 
+
+    "nombre": "Tomate",
+
+    "nombreCientifico": "Solanum lycopersicum",
+
+    "descripcion": "Se consume crudo en ensalada o cocido. Se puede conservar en salsas o secado al sol. Los tomates de temporada, cultivados en huerta, no tienen nada que ver con los que se compran habitualmente en las verdulerías.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Desde fines de julio (en almácigos protegidos), hasta noviembre",
+        "diasACosecha": "80-90 después de transplantado"
+    }, 
+
+    "forma": "Almácigo y transplante", 
+
+    "clima": "Es muy sensible al frío, por eso se deben transplantar al exterior sólo cuando haya pasado cualquier peligro de heladas. Crece en diversos suelos, pero responde muy bien a los ricos en materia orgánica",     
+    
+    "cuidadosEspeciales": "Tutorado, carpidas y aporques", 
+  
+    "enfermedades": {
+        "enfermedades": "Tizones, viruela (controlar con caldo Bordelés), hongos del suelo.", 
+        "insectos": "Trips (control con azufre), polilla del tomate, chinche del tomate (asociar con albahaca)."
+    },   
+
+    "asociarCon": "Albahaca, lechuga, rúcula, zanahoria, espinaca, repollo", 
+ 
+    "maceta": {
+        "volumen": 20, 
+        "profundidad": 40
+    }, 
+
+    "huerto": {
+        "plantas": 30, 
+        "filas": 90, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Hay infinidad de variedades de tomates. Platense, Monserrat, Dan-Ronc, Daniela o Perita son los más comunes en Argentina.",
+
+    "informacionAdicional": "Para favorecer el crecimiento de la planta, hay que eliminar los brotes axilares. También es importante no mojar el follaje al regar para evitar la aparición de hongos",
+
+"images": [
+        "img/tomate/tomate01.jpg"
+    ]
+
+}

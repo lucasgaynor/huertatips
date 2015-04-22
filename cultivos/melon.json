@@ -1,0 +1,49 @@
+{
+
+    "id": "melon", 
+
+    "nombre": "Melón",
+
+    "nombreCientifico": "Cucumis melo",
+
+    "descripcion": "De la familia de las cucurbitáceas (zapallo, pepino y sandía). Se consumen sus frutos.", 
+
+    "calendario": {
+        "epocaDeSiembra": "principios de octubre",
+        "diasACosecha": "100"
+    }, 
+
+    "forma": "Directa de asiento", 
+
+    "clima": "Para plantar el melón es necesario que no haya peligro de heladas. Requiere para su crecimiento mucho sol y un suelo rico en nutrientes.",     
+    
+    "cuidadosEspeciales": "Se pueden tutorar con cañas, teniendo cuidado de que la estructura resista el peso de la fruta. Evitar que el melón toque el piso, y una vez que aparece hay que manipularlo lo menos posible.", 
+  
+    "enfermedades": {
+        "enfermedades": "Tizón de las hojas, oidio. Conviene regar sin mojar las hojas para prevenirlo.", 
+        "insectos": "Pulgón, mosquita minadora, chinche."
+    },   
+
+    "asociarCon": "Maíz, acelga, espinaca o rábano", 
+ 
+    "maceta": {
+        "volumen": 30, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 80, 
+        "filas": 90, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Rocio de miel, Ogen, Jumbo Hales Best, Planters Jumbo, Jeaune Canaire",
+
+    "informacionAdicional": "Para sembrar, en cada hueco se pueden plantar tres semillas. Cuando crezcan, elegir la más fuerte y sacar las otras dos. Aproximadamente tres meses después el melón tendrá perfume y estará listo para cosechar.",
+
+    "images": [
+        "img/melon/melon01.jpg"
+    ]
+
+
+}

@@ -1,0 +1,49 @@
+{
+
+    "id": "escarola", 
+
+    "nombre": "Escarola",
+
+    "nombreCientifico": "Cichorium intybus",
+
+    "descripcion": "Tiene un sabor fuerte y algo amargo. Es ideal para combinar con otras verduras en ensaladas.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año.",
+        "diasACosecha": "90"
+    }, 
+
+    "forma": "directa", 
+
+    "clima": "Es más resistente al frío y al calor que la lechuga.",     
+    
+    "cuidadosEspeciales": "Como su sistema radicular no es profundo, hay que cuidar el riego y mantener humedos los primeros 30cm de tierra.", 
+  
+    "enfermedades": {
+        "enfermedades": "Es un cultivo resistente a las enfermedades", 
+        "insectos": "Caracoles y babosas"
+    },   
+
+    "asociarCon": "remolacha, repollo, acelga", 
+ 
+    "maceta": {
+        "volumen": 3, 
+        "profundidad": 10
+    }, 
+
+    "huerto": {
+        "plantas": 20, 
+        "filas": 30, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Selección Ancha de corazón Lleno, Full Heart Batavia,  Florida Deep Herat, Pancaliere",
+
+    "informacionAdicional": "Se puede atarlas unos días antes de la cosecha para blanquear y hacer más tiernas las hojas interiores.",
+
+  "images": [
+        "img/escarola/escarola01.jpg"
+    ]
+
+
+}

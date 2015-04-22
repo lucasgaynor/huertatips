@@ -1,0 +1,47 @@
+{
+
+    "id": "zapallito", 
+
+    "nombre": "Zapallito",
+
+    "nombreCientifico": "Cucurbita maxima var. zapallito",
+
+    "descripcion": "Se comen sus frutos inmaduros. Se cultiva en Argentina desde épocas precolombinas. Se lo llama también zapallito criollo, o zapallito redondo de tronco.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Primavera",
+        "diasACosecha": "90"
+    }, 
+
+    "forma": "Directa", 
+
+    "clima": "Se siembra una vez que hayan pasado las heladas. En cuanto a las exigencias del suelo, requiere preparar el terreno con abono y cuidar que tenga buen drenaje.",     
+    
+    "cuidadosEspeciales": "Controlar malezas y aporcar cuando la planta tiene 20cm. de altura. ", 
+  
+    "enfermedades": {
+        "enfermedades": "Oídio o blanco (Erysiphe cíchoracearum, Oidium ambrosiae); Antracnosis (Colletotríchum lagenarium) y Mildiu.", 
+        "insectos": "Vaquita de los melones (Epilachna paenulata), Chinches del zapallo."
+    },   
+
+    "asociarCon": "", 
+ 
+    "maceta": {
+        "volumen": 60, 
+        "profundidad": 40
+    }, 
+
+    "huerto": {
+        "plantas": 70, 
+        "filas": 100, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Redondo de Tronco: Cachí Magnif INTA / Veronés INTA / Alargado de Tronco (Tipo Zucchini) Zucchini Grey",
+
+    "informacionAdicional": "Al regar es importante no mojar las hojas, para prevenir la aparición de hongos.",
+  
+    "images": [
+        "img/zapallito/zapallito01.jpg"
+    ]
+}

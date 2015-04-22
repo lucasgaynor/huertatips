@@ -1,0 +1,49 @@
+{
+
+    "id": "porotoChaucha", 
+
+    "nombre": "Poroto chaucha",
+
+    "nombreCientifico": "Phaseolus vulgaris",
+
+
+    "descripcion": "A diferencia de las habas y de las arvejas, se consumen también sus vainas tiernas.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Septiembre-Octubre. Noviembre y Enero",
+        "diasACosecha": "60 a 90"
+    }, 
+
+    "forma": "Directa", 
+
+    "clima": "Requiere clima templado o cálido; no soporta las heladas. El suelo debe estar bien trabajado y drenar bien.",     
+    
+    "cuidadosEspeciales": "Para facilitar la germinación, mantener humedad constante luego de la siembra. Los suelos arcillosos muchas veces no permiten que emergan las plantas.", 
+  
+    "enfermedades": {
+        "enfermedades": "Roya, Antracnosis, Mancha angular", 
+        "insectos": "Polilla del poroto, Vaquitas, Mosca blanca, Trips, Astilo moteado."
+    },   
+
+    "asociarCon": "Maíz, zapallo", 
+ 
+    "maceta": {
+        "volumen": 15, 
+        "profundidad": 35
+    }, 
+
+    "huerto": {
+        "plantas": 30, 
+        "filas": 70, 
+        "profundidad": 4
+    }, 
+
+    "variedades": "De enrame (Balina, Painé INTA, Contraancha, Brue, Laike) y enanas (Balina enana, Famatina Magnif, Labrador)",
+
+    "informacionAdicional": "",
+
+   "images": [
+        "img/porotoChaucha/porotoChaucha01.jpg"
+    ]
+
+}

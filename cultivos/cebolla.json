@@ -1,0 +1,49 @@
+{
+
+    "id": "cebolla", 
+
+    "nombre": "Cebolla",
+
+    "nombreCientifico": "Allium cepa",
+
+    "descripcion": "De la misma familia que la ciboulette, el ajo o el puerro. La cebolla forma un engrosamiento subterráneo en el tallo, conocido como bulbo. La cebolla llegó a América con los colonizadores, y hoy es una parte importante de nuestras recetas.", 
+
+    "calendario": {
+        "epocaDeSiembra": "De febrero a junio, según la variedad.",
+        "diasACosecha": "180-210"
+    }, 
+
+    "forma": "Almácigo y trasplante", 
+
+    "clima": "Requiere muchas horas de luz para la formación del bulbo. En cuanto al suelo, se beneficia con mucha materia orgánica y tierra bien trabajada y permeable.",     
+    
+    "cuidadosEspeciales": "Evitar el riego en exceso y hacerlo sin mojar las hojas.", 
+  
+    "enfermedades": {
+        "enfermedades": "La podredumbre blanca, mildiu, y podredumbre del cuello.", 
+        "insectos": "Nemátodos, trips y ácaros."
+    },   
+
+    "asociarCon": "Lechuga, Rúcula, Zanahoria, Puerro", 
+ 
+    "maceta": {
+        "volumen": 3, 
+        "profundidad": 20
+    }, 
+
+    "huerto": {
+        "plantas": 10, 
+        "filas": 40, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Valenciana, Valencianita, Valcatorce, Chata blanca",
+
+    "informacionAdicional": "30 días antes de la cosecha hay que dejar de regar. Caundo las hojas se ablandan y se doblan es signo de que el bulbo está maduro.",
+
+    "images": [
+        "img/cebolla/cebolla01.jpg"
+    ] 
+
+
+}
