@@ -1,0 +1,61 @@
+[
+    {
+        
+        "id": "aranuela", 
+        "imageUrl": "img/plagas/aranuela01.jpg", 
+        "nombre": "Arañuelas"
+    }, 
+    {
+        "id": "bichoMoro", 
+        "imageUrl": "img/plagas/bichoMoro01.jpg", 
+        "nombre": "Bicho moro" 
+    }, 
+    {     
+        "id": "chinche", 
+        "imageUrl": "img/plagas/chinche01.jpg", 
+        "nombre": "Chinche"
+    }, 
+    {     
+        "id": "chincheDelZapallo", 
+        "imageUrl": "img/plagas/chincheDelZapallo01.jpg", 
+        "nombre": "Chinche del zapallo"
+    }, 
+        {
+        "id": "isocaDeLaEspiga", 
+        "imageUrl": "img/plagas/isocaDeLaEspiga01.jpg", 
+        "nombre": "Isoca de la espiga" 
+    },
+    {
+        
+        "id": "moscaBlanca", 
+        "imageUrl": "img/plagas/moscablanca01.jpg", 
+        "nombre": "Mosca blanca"
+    }, 
+    {
+        "id": "oruga", 
+        "imageUrl": "img/plagas/oruga01.jpg", 
+        "nombre": "Oruga" 
+    }, 
+    {
+        "id": "pulgonNegro", 
+        "imageUrl": "img/plagas/pulgonNegro01.jpg", 
+        "nombre": "Pulgón negro" 
+    },
+    {
+        "id": "sieteDeOro", 
+        "imageUrl": "img/plagas/sieteDeOro01.jpg", 
+        "nombre": "Siete de oro" 
+    }, 
+    {
+        "id": "trips", 
+        "imageUrl": "img/plagas/trips01.jpg", 
+        "nombre": "Trips" 
+    }, 
+    {
+        "id": "vaquitaDeLosMelones", 
+        "imageUrl": "img/plagas/vaquitaDeLosMelones01.jpg", 
+        "nombre": "Vaquita de los melones" 
+    }
+
+    ] 
+

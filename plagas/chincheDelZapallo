@@ -1,0 +1,23 @@
+{
+
+    "id": "chincheDelZapallo", 
+
+    "nombre": "Chinche del zapallo",
+
+    "nombreCientifico": "Acanonicus hahni",
+
+    "descripcion": "Los adultos miden aproximadamente 15 mm y son de color gris ocre; las ninfas (estadios juveniles) son de color verdoso con manchas negras. Succionan savia e inyectan saliva tóxica provocando un menor desarrollo de las plantas y frutos atacados.", 
+
+    "otrosNombres": "",
+
+    "combate": "Plantar cerca nasturcios.",     
+    
+    "cultivosAfectados": "zapallo, zapallito, calabaza,  melon", 
+
+    "informacionAdicional": "",
+
+    "images": [
+        "img/plagas/chincheDelZapallo01.jpg"
+    ]
+
+}
