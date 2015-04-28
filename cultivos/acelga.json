@@ -26,11 +26,8 @@
 
     "asociarCon": "Lechuga, Escarola, Maíz, Cebolla, Repollo, Coliflor", 
 
-        "asociacion": ["Lechuga", "Escarola", "Maiz", "Cebolla", "Repollo", "Coliflor"
-         ],
- 
     "maceta": {
-        "volumen": 25, 
+        "volumen": 5, 
         "profundidad": 25
     }, 
 

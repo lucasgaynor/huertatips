@@ -1,0 +1,49 @@
+{
+
+    "id": "salvia", 
+
+    "nombre": "Salvia",
+
+    "nombreCientifico": "Salvia officinalis",
+
+    "descripcion": "Con una larga tradición en la cocina y como planta medicinal, esta aromática de origen mediterráneo se adapta muy bien a todos los suelos.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Primavera",
+        "diasACosecha": "150"
+    }, 
+
+    "forma": "Por esquejes, almácigos o cultivo directo", 
+
+    "clima": "Se adapta a todo tipo de suelos, pero es fundamental que tenga buen drenaje. Los encharcamientos la perjudican.",     
+    
+    "cuidadosEspeciales": "Luego de la floración hay que realizar una poda para favorecer el crecimiento de nuevos brotes.", 
+  
+    "enfermedades": {
+        "enfermedades": "Fusariosis, el oidio, la podredumbre de la raíz.", 
+        "insectos": "Babosa y mosca blanca"
+    },   
+
+    "asociarCon": "Zanahoria, repollo, coliflor", 
+
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 15, 
+        "filas": 40, 
+        "profundidad": 2
+    }, 
+
+    "variedades": "Salvia Officinalis var. alba, Salvia Officinalis var. crispa",
+
+    "informacionAdicional": "",
+
+    "images": [
+        "img/salvia/salvia01.jpg"
+    ]
+
+
+}

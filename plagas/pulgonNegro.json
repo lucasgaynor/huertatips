@@ -1,0 +1,24 @@
+{
+
+    "id": "pulgonNegro", 
+
+    "nombre": "Pulgón negro",
+
+    "nombreCientifico": "",
+
+    "descripcion": "", 
+
+    "otrosNombres": "",
+
+    "combate": "",     
+    
+    "cultivosAfectados": "zapallo, zapallito, calabaza,  melon", 
+
+    "informacionAdicional": "",
+
+    "images": [
+        "img/plagas/pulgonNegro01.jpg"
+    ]
+
+}
+

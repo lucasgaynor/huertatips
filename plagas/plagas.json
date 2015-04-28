@@ -1,14 +1,34 @@
 [
-    {
-        
+    {   
+        "id": "acaro", 
+        "imageUrl": "img/acaro/acaro01.jpg", 
+        "nombre": "Ácaro"
+    },  
+    {  
         "id": "aranuela", 
         "imageUrl": "img/plagas/aranuela01.jpg", 
         "nombre": "Arañuelas"
+    }, 
+    {     
+        "id": "babosa", 
+        "imageUrl": "img/plagas/babosa01.jpg", 
+        "nombre": "Babosa"
+    }, 
+    {
+        
+        "id": "bichoBolita", 
+        "imageUrl": "img/plagas/bichoBolita01.jpg", 
+        "nombre": "Bicho bolita"
     }, 
     {
         "id": "bichoMoro", 
         "imageUrl": "img/plagas/bichoMoro01.jpg", 
         "nombre": "Bicho moro" 
+    }, 
+    {     
+        "id": "caracol", 
+        "imageUrl": "img/plagas/caracol01.jpg", 
+        "nombre": "Caracol"
     }, 
     {     
         "id": "chinche", 
@@ -20,16 +40,47 @@
         "imageUrl": "img/plagas/chincheDelZapallo01.jpg", 
         "nombre": "Chinche del zapallo"
     }, 
-        {
+    {     
+        "id": "gorgojo", 
+        "imageUrl": "img/plagas/gorgojo01.jpg", 
+        "nombre": "Gorgojo"
+    }, 
+    {
+        
+        "id": "grillo", 
+        "imageUrl": "img/plagas/grillo01.jpg", 
+        "nombre": "Grillo"
+    }, 
+    {
+        
+        "id": "hormigaNegra", 
+        "imageUrl": "img/plagas/hormigaNegra01.jpg", 
+        "nombre": "Hormiga negra"
+    }, 
+    {
         "id": "isocaDeLaEspiga", 
         "imageUrl": "img/plagas/isocaDeLaEspiga01.jpg", 
         "nombre": "Isoca de la espiga" 
+    }, 
+    {
+        "id": "langosta", 
+        "imageUrl": "img/plagas/langosta01.jpg", 
+        "nombre": "Langosta" 
     },
     {
-        
         "id": "moscaBlanca", 
         "imageUrl": "img/plagas/moscablanca01.jpg", 
         "nombre": "Mosca blanca"
+    }, 
+    {
+        "id": "moscaDeLaZanahoria", 
+        "imageUrl": "img/plagas/moscaDeLaZanahoria01.jpg", 
+        "nombre": "Mosca de la zanahoria"
+    },
+       {
+        "id": "nematodes", 
+        "imageUrl": "img/plagas/nematodes01.jpg", 
+        "nombre": "Nemátodes"
     }, 
     {
         "id": "oruga", 

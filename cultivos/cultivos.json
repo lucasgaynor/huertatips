@@ -192,6 +192,12 @@
         "name": "Rúcula" 
     },
     {
+        "age": [8, 9], 
+        "id": "salvia", 
+        "imageUrl": "img/salvia/salvia01.jpg", 
+        "name": "Salvia" 
+    },
+    {
         "age": [7, 8, 9, 10, 11], 
         "id": "tomate", 
         "imageUrl": "img/tomate/tomate01.jpg", 
