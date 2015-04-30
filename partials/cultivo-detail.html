@@ -26,7 +26,7 @@
 
 <div class="col-md-4 cultivo parrafo"> 
  <dl>   
- <h4>Calendario</i></h4>
+ <h4>Calendario</h4>
 
       <dt>Epoca de cultivo</dt>
       <dd>{{cultivo.calendario.epocaDeSiembra}}</dd>
@@ -66,7 +66,7 @@
       <dt>Profundidad de cultivo</dt>
       <dd>{{cultivo.huerto.profundidad}} cm.</dd>
 
-    <h4>En maceta</i></h4>
+    <h4>En maceta</h4>
       <dt>Volumen de maceta recomendado</dt>
       <dd>{{cultivo.maceta.volumen}} litros</dd>
       <dt>Profundidad mínima</dt>
@@ -107,6 +107,16 @@
 
 </div>
 
+<div class="col-md-4 cultivo parrafo ng-hide"> <!--OJO DESACTIVADO CON NG-HIDE-->
+    <dl>
+    <h4>Plagas Nueva</h4>
+    <dd ng-repeat="plagasListaEnCultivo in cultivo.plagasListaEnCultivo"><a href="#/plagas/{{plagasListaEnCultivo}}">{{plagasListaEnCultivo}}</a> </dd>
+    </ul>
+    </dl>
+</div>
+
+
+
 <div class="col-md-4 cultivo parrafo ng-hide" ng-hide="cultivo.informacionAdicional.length === 0"> 
     <dl>
     <h4>Más información</h4>
@@ -119,14 +129,12 @@
 
 
 
-
-<!-- Static bottom navbar -->
-<div class="navbar navbar-default navbar-bottom">
-  <div class="container">
-   <div class="navbar-header">
-      <a class="navbar-navegacion navbar-brand" href="javascript:history.back()"> <i class="fa fa-arrow-left"></i> Volver</a>
-    </div> 
+<div class="row text-center cultivo">
+      <a href="javascript:history.back()" class="btn cultivo"> <i class="fa fa-arrow-left"></i></a>
+      <a onclick="scrollWin()" class="btn cultivo"> <i class="fa fa-arrow-up"></i></a>
 </div>
+
+
 
 
 </div> <!--CIERRE CONTAINER FLUID-->

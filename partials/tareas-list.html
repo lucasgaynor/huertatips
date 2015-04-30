@@ -1,0 +1,34 @@
+  <div class="container listaDeCultivos">
+  
+  <h1 class="text-center">Todas las tareas</h1>
+
+
+    <div class="text-center">       <!--BARRA DE BUSQUEDA-->
+      Buscar: <input ng-model="query">
+    </div>    
+
+  {{date | date:'M'}} 
+
+
+  <h1>FILTRADAS POR MES EN CURSO</h1>
+        <ul class="cultivosEnMes">    
+        <li ng-repeat="tarea in tareas | tarea.mes === {{date | date:'M'}}">
+          <a href="#/tareas/{{tarea.id}}" class="thumb"><img ng-src="{{tarea.imageUrl}}"></a>
+          <a href="#/tareas/{{tarea.id}}"><h2>{{tarea.name}}</h2></a>
+        </li>
+      </ul>
+<hr>      
+
+    </div>
+
+<h1>SIN FILTRO</h1>
+        <ul class="cultivosEnMes">     
+        <li ng-repeat="tarea in tareas" class="thumbnail">
+          <a href="#/tareas/{{tarea.id}}" class="thumb"><img ng-src="{{tarea.imageUrl}}"></a>           
+          <a href="#/tareas/{{tarea.id}}"><h2>{{tarea.name}}</h2></a>
+
+        </li>
+      </ul>
+
+ 
+

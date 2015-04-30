@@ -26,6 +26,13 @@
 
     "asociarCon": "Lechuga, Escarola, Maíz, Cebolla, Repollo, Coliflor", 
 
+    "plagasListaEnCultivo": ["oruga",
+                    "bichoMoro",
+                    "chincheVerde",
+                    "pulgonNegro"
+
+                ], 
+
     "maceta": {
         "volumen": 5, 
         "profundidad": 25
@@ -42,7 +49,7 @@
     "informacionAdicional": "Si bien se come en general cocida, los brotes son lo suficientemente tiernos como para ir directo a una ensalada. Existen variedades de acelgas de color, que además de ser comestibles son decorativas.",
 
     "images": [
-        "img/acelga/acelga01.jpg"
+        "img/cultivos/acelga/acelga01.jpg"
     ]
 
 

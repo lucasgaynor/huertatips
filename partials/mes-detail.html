@@ -5,7 +5,7 @@
       <ul class="cultivosEnMes">
         <li ng-repeat="cultivo in cultivos | filtroMes:''" | class="thumbnail">
           <a href="#/cultivos/{{cultivo.id}}" class="thumb"><img ng-src="{{cultivo.imageUrl}}"></a>
-          <a href="#/cultivos/{{cultivo.id}}">{{cultivo.name}}</a>
+          <a href="#/cultivos/{{cultivo.id}}"><h2>{{cultivo.name}}</h2></a>
         </li>
       </ul>
 

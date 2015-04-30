@@ -1,0 +1,27 @@
+{
+
+    "id": "esquejesLavanda", 
+
+    "nombre": "Hacer esquejes de lavanda",
+
+    "descripcion": "La lavanda se reproduce muy bien por esquejes, y es además una planta clave para atraer a los insectos polinizadores necesarios para nuestros cultivos.", 
+
+    "paso01": "De una planta sana de lavanda, cortar brotes... etc", 
+
+    "paso02":"", 
+
+    "paso03":"", 
+
+    "paso04":"", 
+
+    "paso05":"", 
+
+    "informacionAdicional": "",
+
+    "images": [
+        "img/tareas/esquejesLavanda/esquejesLavanda01.jpg"
+    ]
+
+
+
+}

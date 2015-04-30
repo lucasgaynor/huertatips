@@ -63,3 +63,7 @@ $(".navbar-collapse").collapse('hide');
 });
 
 
+/*SCROLL TO TOP*/
+function scrollWin() {
+    window.scrollTo(0, 0);
+}

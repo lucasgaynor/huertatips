@@ -6,6 +6,7 @@ var calendarioApp = angular.module('calendarioApp', [
   'ngRoute',
   'calendarioControllers',
   'calendarioFilters', 
+
 ]);
 
 calendarioApp.config(['$routeProvider',
@@ -16,24 +17,41 @@ calendarioApp.config(['$routeProvider',
         templateUrl: 'partials/meses-list.html',
         controller: 'CultivoListCtrl'
       }).
+
+      when('/meses/:mesId', {
+        templateUrl: 'partials/mes-detail.html',
+        controller: 'MesDetailCtrl'
+      }).
+
       when('/contacto', {
         templateUrl: 'partials/contacto.html',
       }).
       when('/cultivos', {
         templateUrl: 'partials/cultivo-list.html',
         controller: 'CultivoListCtrl', 
-
       }).
+
       when('/cultivos/:cultivoId', {
         templateUrl: 'partials/cultivo-detail.html',
         controller: 'CultivoDetailCtrl'
       }).
-
-      when('/meses/:mesId', {
-      templateUrl: 'partials/mes-detail.html',
-      controller: 'MesDetailCtrl'
+        
+      when('/tareas', {
+        templateUrl: 'partials/tareas-list.html',
+        controller: 'TareasListCtrl', 
       }).
-           when('/', {
+
+      when('/tareas/:tareaId', {
+        templateUrl: 'partials/tarea-detail.html',
+        controller: 'TareaDetailCtrl'
+      }).
+
+      when('/plagas/:plagaId', {
+        templateUrl: 'partials/plaga-detail.html',
+        controller: 'PlagaDetailCtrl'
+      }).
+
+      when('/', {
       templateUrl: 'partials/home.html',
       }).
            

@@ -1,0 +1,15 @@
+<h1>
+TAREA</h1>
+
+<h1>{{tarea.nombre}}</h1>
+
+<p>{{tarea.descripcion}}</p>
+
+
+<div class="col-md-5">
+  <img class="img-responsive"ng-src="{{img}}"
+       class="cultivo"
+       ng-repeat="img in tarea.images"
+       ng-class="{active: mainImageUrl==img}">
+
+</div>
