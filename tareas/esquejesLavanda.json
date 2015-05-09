@@ -2,26 +2,21 @@
 
     "id": "esquejesLavanda", 
 
-    "nombre": "Hacer esquejes de lavanda",
+    "nombre": "Esquejes de lavanda",
 
     "descripcion": "La lavanda se reproduce muy bien por esquejes, y es además una planta clave para atraer a los insectos polinizadores necesarios para nuestros cultivos.", 
 
-    "paso01": "De una planta sana de lavanda, cortar brotes... etc", 
+    "paso01": "De una planta sana de lavanda, cortar brotes de aproximadamente diez centímetros. Elegir ramas que sean de crecimiento reciente (que no sean leñosas), que esten sanas y sin indicios de plagas.", 
 
-    "paso02":"", 
+    "paso02":"Se puede despuntar el brote, y luego quitar las hojas de la base, dejando cinco centímetros del tallo deshojado.", 
 
-    "paso03":"", 
+    "paso03":"En una mezcla de tierra y compost previamente preparado, colocar los brotes. En una maceta pequeña se pueden poner tres esquejes. En ocho semanas habrán hechado raíz y se pueden transplantar a macetas individuales o a su lugar definitivo en la huerta.", 
 
     "paso04":"", 
 
     "paso05":"", 
 
-    "informacionAdicional": "",
-
-    "images": [
-        "img/tareas/esquejesLavanda/esquejesLavanda01.jpg"
-    ]
-
+    "informacionAdicional": ""
 
 
 }

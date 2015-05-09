@@ -72,6 +72,12 @@
         "name": "Cebollino" 
     }, 
     {
+        "age": [0], 
+        "id": "cilantro", 
+        "imageUrl": "img/cultivos/cilantro/cilantro01.jpg", 
+        "name": "Cilantro" 
+    }, 
+    {
         "age": [3, 4, 10, 11], 
         "id": "coliflor", 
         "imageUrl": "img/cultivos/coliflor/coliflor01.jpg", 
@@ -94,6 +100,12 @@
         "id": "haba", 
         "imageUrl": "img/cultivos/haba/haba01.jpg", 
         "name": "Haba" 
+    }, 
+    {
+        "age": [7,8,9],
+        "id": "hinojo", 
+        "imageUrl": "img/cultivos/hinojo/hinojo01.jpg", 
+        "name": "Hinojo" 
     }, 
     {
         "age": 0, 

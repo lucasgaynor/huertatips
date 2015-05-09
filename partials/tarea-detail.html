@@ -1,15 +1,78 @@
-<h1>
-TAREA</h1>
+<div class="container-fluid tarea">
+<div class="row">
 
+<div class="col-md-12 paso">
 <h1>{{tarea.nombre}}</h1>
-
 <p>{{tarea.descripcion}}</p>
+</div>
+</div>
 
 
-<div class="col-md-5">
-  <img class="img-responsive"ng-src="{{img}}"
-       class="cultivo"
-       ng-repeat="img in tarea.images"
-       ng-class="{active: mainImageUrl==img}">
+<div class="row ng-hide paso" ng-hide="tarea.paso01.length === 0">
+<div class="col-md-6">
+<img ng-src="img/tareas/{{tarea.id}}/paso01.jpg" alt="" class="img-responsive">
+</div>
+<div class="col-md-6">
+<h2>Paso 1</h2>
+<p>{{tarea.paso01}}</p>
+</div>
+</div>
+
+<div class="row ng-hide paso" ng-hide="tarea.paso02.length === 0">
+<div class="col-md-6">
+<img ng-src="img/tareas/{{tarea.id}}/paso02.jpg" class="img-responsive">
+</div>
+<div class="col-md-6">
+<h2>Paso 2</h2>
+<p>{{tarea.paso02}}</p>
+</div>
+</div>
+
+
+<div class="row ng-hide paso" ng-hide="tarea.paso03.length === 0">
+<div class="col-md-6">
+<img ng-src="img/tareas/{{tarea.id}}/paso03.jpg" class="img-responsive">
+</div>
+<div class="col-md-6">
+<h2>Paso 3</h2>
+<p>{{tarea.paso03}}</p>
+</div>
+</div>
+
+<div class="row ng-hide paso" ng-hide="tarea.paso04.length === 0">
+<div class="col-md-6">
+<img ng-src="img/tareas/{{tarea.id}}/paso04.jpg" class="img-responsive">
+</div>
+<div class="col-md-6">
+<h2>Paso 4</h2>
+<p>{{tarea.paso04}}</p>
+</div>
+</div>
+
+
+<div class="row ng-hide paso" ng-hide="tarea.paso05.length === 0">
+<div class="col-md-6">
+<img ng-src="img/tareas/{{tarea.id}}/paso05.jpg" class="img-responsive">
+</div>
+<div class="col-md-6">
+<h2>Paso 5</h2>
+<p>{{tarea.paso05}}</p>
+</div>
+</div>
+
+<div class="row ng-hide paso" ng-hide="tarea.informacionAdicional.length === 0">
+<div class="col-md-12">
+<h2>Más información</h2>
+<p>{{tarea.informacionAdicional}}</p>
+</div>
+</div>
+
+
+
+<div class="row text-center cultivo">
+      <a href="javascript:history.back()" class="btn cultivo"> <i class="fa fa-arrow-left"></i></a>
+      <a onclick="scrollWin()" class="btn cultivo"> <i class="fa fa-arrow-up"></i></a>
+</div>
+
 
 </div>

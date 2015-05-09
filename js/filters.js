@@ -14,6 +14,21 @@ angular.module('calendarioFilters',[]).filter('filtroMes', function(){
         
         return arrayToReturn;
     };
+})
+
+
+.filter('filtroTarea', function(){
+    return function(tareas, name){
+        
+        var arrayToReturn = [];        
+        for (var i=0; i<tareas.length; i++){
+            if ((tareas[i].mes == 0)  ||  (tareas[i].mes == this.mes.age) || (typeof tareas[i].mes == "object" && tareas[i].mes.indexOf(this.mes.age) >= 0)) {
+                arrayToReturn.push(tareas[i]);
+            } 
+        }
+        
+        return arrayToReturn;
+    };
 });
 
 

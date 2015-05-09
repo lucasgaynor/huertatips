@@ -1,12 +1,12 @@
 [
     {
-        "mes": 4, 
+        "mes": 0, 
         "id": "compost", 
         "imageUrl": "img/tareas/compost/compost01.jpg", 
         "name": "Preparar una nueva pila de compost"
     }, 
     {
-        "mes": 4,
+        "mes": 5,
         "id": "esquejesLavanda", 
         "imageUrl": "img/tareas/esquejesLavanda/esquejesLavanda01.jpg", 
         "name": "Hacer esquejes de lavanda" 

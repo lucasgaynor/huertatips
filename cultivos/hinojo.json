@@ -1,0 +1,54 @@
+{
+
+    "id": "hinojo", 
+
+    "nombre": "Hinojo",
+
+    "nombreCientifico": "Foeniculum vulgare",
+
+    "descripcion": "La parte inferior de la planta tiene un bulbo comestible, que son en realidad las bases de las hojas, que se dilatan y se aprietan en la base de la planta. Se puede consumir crudo o cocido.", 
+
+    "calendario": {
+        "epocaDeSiembra": "desde mediados del invierno hasta principios de la primavera.",
+        "diasACosecha": "70 a 80"
+    }, 
+
+    "forma": "Almácigo y transplante o cultivo directo", 
+
+    "clima": "Se desarrolla en suelos sueltos y bien abonados. Prefiere climas cálidos (entre 15 y 20 grados). Más calor produce una floración excesiva que le quita gusto a sus hojas. Es muy sensible a las heladas.",     
+    
+    "cuidadosEspeciales": "Desmalezar y aporcar a medida que la planta crece. Se realiza una primera cosecha, once semanas después del cultivo, en la que cortamos las hojas desde la base con una tijera. En la segunda cosecha se corta la planta para consumir los rebrotes y el bulbo.", 
+  
+    "enfermedades": {
+        "enfermedades": "", 
+        "insectos": "Pulgón"
+    },   
+
+    "asociarCon": "Puerro, zanahoria, frutilla, lechuga, cebolla, tomate, apio", 
+
+    "plagasListaEnCultivo": [
+                    "pulgonNegro"
+
+                ], 
+
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 20, 
+        "filas": 50, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Carmo, Pollux, Argo, de florencia",
+
+    "informacionAdicional": "Además de consumir sus hojas, las semillas del hinojo se pueden usar como condimento.",
+
+    "images": [
+        "img/cultivos/hinojo/hinojo01.jpg"
+    ]
+
+
+}

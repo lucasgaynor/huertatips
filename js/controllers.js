@@ -30,7 +30,6 @@ calendarioControllers.controller('TareasListCtrl', ['$scope', '$http',
 
     $scope.date = new Date();
 
-    $scope.orderProp = 'age';
   }]);
 
 calendarioControllers.controller('TareaDetailCtrl', ['$scope', '$routeParams', '$http',

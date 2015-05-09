@@ -1,0 +1,53 @@
+{
+
+    "id": "cilantro", 
+
+    "nombre": "Cilantro",
+
+    "nombreCientifico": "Coriandrum sativum",
+
+    "descripcion": "Si bien sus hojas son parecidas a las del perejil, su sabor es muy distinto. La planta alcanza medio metro de altura. Las hojas frescas del cilantro son ingrediente de muchas recetas de la cocina americana.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Todo el año",
+        "diasACosecha": "50 a 70"
+    }, 
+
+    "forma": "Directa o en almácigo", 
+
+    "clima": "Es poco exigente en cuanto a los suelos, pero para un buen desarrollo necesita climas templados. Las altas temperaturas perjudican su crecimiento.",     
+    
+    "cuidadosEspeciales": "Es importante regar con cuidado de no encharcar el suelo, ya que el exceso de agua afecta su desarrollo.", 
+  
+    "enfermedades": {
+        "enfermedades": "Macha bacteriana", 
+        "insectos": "Pulgones"
+    },   
+
+    "asociarCon": "", 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 15, 
+        "filas": 20, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Castilla, Americana, de pata morada",
+
+    "informacionAdicional": "",
+
+    "images": [
+        "img/cultivos/cilantro/cilantro01.jpg"
+    ]
+
+
+}

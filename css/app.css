@@ -130,7 +130,6 @@ font-size: 5vmin;
 
 /*HOME*/ 
 
-
 .brand-heading {
     font-size: 40px;
     font-weight: bold;
@@ -312,6 +311,26 @@ a:focus {
     text-align: center;
     margin: auto;
 }
+
+
+/** DETALLE DE TAREAS **/
+
+.tarea h1 {
+  margin-bottom: 2vh;
+}
+.tarea h2 {
+  margin-bottom: 1vh;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #003300;
+}
+
+.paso {
+  margin-bottom: 5vh;
+}
+
+
+
 
 
 /*CONTACTO*/
