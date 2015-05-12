@@ -1,0 +1,53 @@
+{
+
+    "id": "mostaza", 
+
+    "nombre": "Mostaza",
+
+    "nombreCientifico": "Brassica  juncea",
+
+    "descripcion": "Son una especie de mostaza cuyas hojas son comestibles. Hay variedades de diversas formas y colores; todas de sabor picante e intenso. Se puede consumir cruda o cocida.", 
+
+    "calendario": {
+        "epocaDeSiembra": "desde fines de verano hasta mediados de otoño",
+        "diasACosecha": "30 a 50"
+    }, 
+
+    "forma": "De asiento o directa.", 
+
+    "clima": "El clima frío mejora el sabor de la mostaza y prolonga la época de cosecha. Requieren sol y buen drenaje.",     
+    
+    "cuidadosEspeciales": "Para la cosecha, cortar las hojas a unos cinco centímetros del suelo. Es importante realizar cosechas frecuentes para incentivar el rebrote de la planta y evitar la floración prematura.", 
+  
+    "enfermedades": {
+        "enfermedades": "", 
+        "insectos": "Pulgones y caracoles"
+    },   
+
+    "asociarCon": "", 
+
+    "plagasListaEnCultivo": ["pulgon", 
+                            "caracol"
+                                   ], 
+
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 25, 
+        "filas": 30, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Red giant, enrollada gigante del sur",
+
+    "informacionAdicional": "Luego de la siembra, mantener la humedad del suelo constante. Una vez que las plantas crecen, ralear dejando espacio entre las plantas. Las que quitamos se pueden transplantar o consumir como brotes en ensaladas.",
+
+    "images": [
+        "img/cultivos/mostaza/mostaza01.jpg"
+    ]
+
+
+}

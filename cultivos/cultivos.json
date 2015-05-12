@@ -108,6 +108,12 @@
         "name": "Hinojo" 
     }, 
     {
+        "age": [3,4,5,6],
+        "id": "kale", 
+        "imageUrl": "img/cultivos/kale/kale01.jpg", 
+        "name": "Kale" 
+    }, 
+    {
         "age": 0, 
         "id": "lechuga", 
         "imageUrl": "img/cultivos/lechuga/lechuga01.jpg", 
@@ -124,6 +130,12 @@
         "id": "melon", 
         "imageUrl": "img/cultivos/melon/melon01.jpg", 
         "name": "Melón" 
+    },
+    {
+        "age": [3,4,5], 
+        "id": "mostaza", 
+        "imageUrl": "img/cultivos/mostaza/mostaza01.jpg", 
+        "name": "Mostaza" 
     },
     {
         "age": [3, 4, 5], 

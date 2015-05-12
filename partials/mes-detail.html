@@ -10,3 +10,14 @@
       </ul>
 
 </div>
+
+<div class="container listaDeCultivos">
+  <h1>Tareas para {{mes.nombre}}</h1>
+        <ul class="cultivosEnMes">    
+        <li ng-repeat="tarea in tareas | filtroTarea:''" | class="thumbnail"> 
+          <a href="#/tareas/{{tarea.id}}" class="thumb"><img ng-src="{{tarea.imageUrl}}"></a>
+          <a href="#/tareas/{{tarea.id}}"><h2>{{tarea.titulo}}</h2></a>
+        </li>
+      </ul>
+</div>
+<hr>      

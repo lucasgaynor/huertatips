@@ -12,9 +12,12 @@
 
   <h1>FILTRADAS POR MES EN CURSO</h1>
         <ul class="cultivosEnMes">    
-       <!-- <li ng-repeat="tarea in tareas | tarea.mes == 0">  o tarea.mes == {{date | date:"M"}}  o filtroTarea:'' -->
+       <!--- <li ng-repeat="tarea in tareas | filtroTarea:''">  o tarea.mes == {{date | date:"M"}}  o filtroTarea:'' -->
+       <li ng-repeat="tarea in tareas">
+       <div ng-if="tarea.mes == 5 || tarea.mes == 0" class="thumbnail">
           <a href="#/tareas/{{tarea.id}}" class="thumb"><img ng-src="{{tarea.imageUrl}}"></a>
-          <a href="#/tareas/{{tarea.id}}"><h2>{{tarea.name}}</h2></a>
+          <a href="#/tareas/{{tarea.id}}"><h2>{{tarea.titulo}}</h2></a>
+      </div>
         </li>
       </ul>
 <hr>      
@@ -25,7 +28,7 @@
         <ul class="cultivosEnMes">     
         <li ng-repeat="tarea in tareas" class="thumbnail">
           <a href="#/tareas/{{tarea.id}}" class="thumb"><img ng-src="{{tarea.imageUrl}}"></a>           
-          <a href="#/tareas/{{tarea.id}}"><h2>{{tarea.name}}</h2></a>
+          <a href="#/tareas/{{tarea.id}}"><h2>{{tarea.titulo}}</h2></a>
 
         </li>
       </ul>

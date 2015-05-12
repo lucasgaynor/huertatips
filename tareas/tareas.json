@@ -3,19 +3,31 @@
         "mes": 0, 
         "id": "compost", 
         "imageUrl": "img/tareas/compost/compost01.jpg", 
-        "name": "Preparar una nueva pila de compost"
+        "titulo": "Preparar una nueva pila de compost"
     }, 
     {
         "mes": 5,
         "id": "esquejesLavanda", 
         "imageUrl": "img/tareas/esquejesLavanda/esquejesLavanda01.jpg", 
-        "name": "Hacer esquejes de lavanda" 
+        "titulo": "Hacer esquejes de lavanda" 
     }, 
     {
         "mes": [8, 9],
         "id": "esquejesRomero", 
         "imageUrl": "img/tareas/esquejesRomero/esquejesRomero01.jpg", 
-        "name": "Hacer esquejes de romero" 
+        "titulo": "Hacer esquejes de romero" 
+    },     
+    {
+        "mes": 0,
+        "id": "materiaOrganica", 
+        "imageUrl": "img/tareas/materiaOrganica/materiaOrganica01.jpg", 
+        "titulo": "Agregar materia orgánica al suelo" 
+    },
+    {
+        "mes": 0,
+        "id": "mulching", 
+        "imageUrl": "img/tareas/mulching/mulching01.jpg", 
+        "titulo": "Aplicar mulching en los canteros" 
     }
 
 ]

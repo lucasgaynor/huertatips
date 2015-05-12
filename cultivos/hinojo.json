@@ -10,7 +10,7 @@
 
     "calendario": {
         "epocaDeSiembra": "desde mediados del invierno hasta principios de la primavera.",
-        "diasACosecha": "70 a 80"
+        "diasACosecha": "80 a 110"
     }, 
 
     "forma": "Almácigo y transplante o cultivo directo", 
@@ -28,7 +28,6 @@
 
     "plagasListaEnCultivo": [
                     "pulgonNegro"
-
                 ], 
 
     "maceta": {
@@ -37,14 +36,14 @@
     }, 
 
     "huerto": {
-        "plantas": 20, 
-        "filas": 50, 
+        "plantas": 25, 
+        "filas": 30, 
         "profundidad": 1
     }, 
 
     "variedades": "Carmo, Pollux, Argo, de florencia",
 
-    "informacionAdicional": "Además de consumir sus hojas, las semillas del hinojo se pueden usar como condimento.",
+    "informacionAdicional": "Además de consumir sus hojas, las semillas del hinojo se pueden usar como condimento. El hinojo necesita una temperatura mínima de 15 grados para germinar; si empezamos la siembra antes de que pasen las heladas, es necesario que sea en un lugar reparado.",
 
     "images": [
         "img/cultivos/hinojo/hinojo01.jpg"

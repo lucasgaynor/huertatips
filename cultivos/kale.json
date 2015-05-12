@@ -1,0 +1,52 @@
+{
+
+    "id": "kale", 
+
+    "nombre": "Kale",
+
+    "nombreCientifico": "Brassica  oleracea var. acephala",
+
+    "descripcion": "También llamada col rizada. Se trata de una variedad de col que no forma cabeza. Cuando las hojas son jóvenes se pueden consumir frescas en ensaladas, o las hojas más desarrolladas, cocidas o fritas. Las plantas pueden llegar a los 90cm de altura.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Fines de verano hasta el otoño",
+        "diasACosecha": "30 a 70"
+    }, 
+
+    "forma": "Directa o amácigo y transplante.", 
+
+    "clima": "Si bien el kale puede cultivarse todo el año, el invierno es el momento ideal, ya que resiste las bajas temperaturas. Requieren sol, y no tolera los suelos secos.",     
+    
+    "cuidadosEspeciales": "Quitar las hojas amarillas de la base de la planta y mantener siempre el suelo libre de malezas.", 
+  
+    "enfermedades": {
+        "enfermedades": "", 
+        "insectos": "Pulgones, caracoles, oruga de la col y mosca blanca."
+    },   
+
+    "asociarCon": "", 
+
+    "plagasListaEnCultivo": ["pulgon" 
+                                                               ], 
+
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 30, 
+        "filas": 50, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "",
+
+    "informacionAdicional": "Es importante realizar cosechas frecuentes para evitar la floración prematura del kale.",
+
+    "images": [
+        "img/cultivos/kale/kale01.jpg"
+    ]
+
+
+}

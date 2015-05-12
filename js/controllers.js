@@ -74,6 +74,9 @@ calendarioControllers.controller('MesDetailCtrl', ['$scope', '$routeParams', '$h
     $http.get('cultivos/cultivos.json').success(function(data) {
       $scope.cultivos = data;
     });
+      $http.get('tareas/tareas.json').success(function(data) {
+      $scope.tareas = data;
+    });
     $scope.setImage = function(imageUrl) {
       $scope.mainImageUrl = imageUrl;
     }

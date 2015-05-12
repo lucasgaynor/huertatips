@@ -1,0 +1,22 @@
+{
+
+    "id": "mulching", 
+
+    "nombre": "Aplicar mulching a los cultivos",
+
+    "descripcion": "El mulch es una capa de materia orgánica, que se aplica sobre el suelo. Es beneficioso para los cultivos porque evita que la humedad se evapore de la capa superficial del suelo. Además controla la temperatura del suelo y evita la germinación de malas hierbas.", 
+
+    "paso01": "Elegir, dentro de lo que tengamos disponible, el mulch que vamos a utilizar. Puede ser compost en proceso de descomposición, pinocha, cortezas, camas de animales herbíboros, abono seco o paja.", 
+
+    "paso02":"Si el suelo al que aplicaremos mulching esta seco, regar primero.", 
+
+    "paso03":"Aplicar una capa generosa del mulch entre las plantas, cuidado de dejar espacio entre el mulch y los tallos de las plantas (esto evita la posibles podredumbres).", 
+
+    "paso04":"", 
+
+    "paso05":"", 
+
+    "informacionAdicional": "Los mulch orgánicos se descomponen con el paso del tiempo y, además de los beneficios mencionados antes, mejoran la estrucutra del suelo. También se pueden usar mulchings inorgánicos (plastico, geotextil, alfombras usadas o papel de diario."
+
+
+}
