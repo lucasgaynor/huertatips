@@ -6,7 +6,6 @@
 
     "nombreCientifico": "",
 
-     
     "descripcion": "", 
 
     "calendario": {
@@ -16,7 +15,7 @@
 
     "forma": "", 
 
-    "clima": ".",     
+    "clima": "",     
     
     "cuidadosEspeciales": "", 
   
@@ -26,16 +25,20 @@
     },   
 
     "asociarCon": "", 
- 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
     "maceta": {
-        "volumen": 00, 
-        "profundidad": 00
+        "volumen": 5, 
+        "profundidad": 25
     }, 
 
     "huerto": {
-        "plantas": 00, 
-        "filas": 00, 
-        "profundidad": 00
+        "plantas": 15, 
+        "filas": 50, 
+        "profundidad": 2
     }, 
 
     "variedades": "",
@@ -43,10 +46,7 @@
     "informacionAdicional": "",
 
     "images": [
-        "img//.jpg", 
-        "img//.jpg", 
-        "img//.jpg", 
-        "img//.jpg"
+        "img/cultivos//01.jpg"
     ]
 
 

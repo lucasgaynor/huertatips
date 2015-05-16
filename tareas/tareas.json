@@ -12,19 +12,19 @@
         "titulo": "Hacer esquejes de lavanda" 
     }, 
     {
-        "mes": [8, 9],
+        "mes": 5,
         "id": "esquejesRomero", 
         "imageUrl": "img/tareas/esquejesRomero/esquejesRomero01.jpg", 
         "titulo": "Hacer esquejes de romero" 
     },     
     {
-        "mes": 0,
+        "mes": 4,
         "id": "materiaOrganica", 
         "imageUrl": "img/tareas/materiaOrganica/materiaOrganica01.jpg", 
         "titulo": "Agregar materia orgánica al suelo" 
     },
     {
-        "mes": 0,
+        "mes": 5,
         "id": "mulching", 
         "imageUrl": "img/tareas/mulching/mulching01.jpg", 
         "titulo": "Aplicar mulching en los canteros" 

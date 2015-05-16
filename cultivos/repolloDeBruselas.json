@@ -1,0 +1,53 @@
+{
+
+    "id": "repolloDeBruselas", 
+
+    "nombre": "Repollo de Bruselas",
+
+    "nombreCientifico": "Brassica oleracea var. gemmifera",
+
+    "descripcion": "El tallo de la planta puede medir hasta 70 centímetros. En las axilas de las hojas, surgen yemas (pellas) en forma de pequeños repollos. Los almácigos pueden iniciarse a medidados de verano y transplantarse en otoño.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Almácigo en verano y transplante en otoño",
+        "diasACosecha": "90 a 160"
+    }, 
+
+    "forma": "Almácigo y transplante", 
+
+    "clima": "Requiere suelos ricos en nutrientes, y es un cultivo resistente al frío.",     
+    
+    "cuidadosEspeciales": "Cada quince días, realizar un aporque con azada; favorece el crecimiento y protege a la planta. Si está en un lugar ventoso, la planta puede necesitar un tutor.", 
+  
+    "enfermedades": {
+        "enfermedades": "", 
+        "insectos": "Pulgón, Oruga de la col"
+    },   
+
+    "asociarCon": "Acelga, apio, berenjena, calabaza, cebolla, escarola, espinaca, lechuga, nabo, pepino, pimiento, puerro, remolacha, tomate, zanahoria.", 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
+    "maceta": {
+        "volumen": 20, 
+        "profundidad": 35
+    }, 
+
+    "huerto": {
+        "plantas": 50, 
+        "filas": 100, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "Precoz de Fontenay, De Rosny, Long Island, Amager.",
+
+    "informacionAdicional": "La cosecha de los brotes se hace desde la base hacia arriba, dejando algunas pellas en la parte superior. A medida que las hojas se van amarilleando, es necesario removerlas.",
+
+    "images": [
+        "img/cultivos/repolloDeBruselas/repolloDeBruselas01.jpg"
+    ]
+
+
+}

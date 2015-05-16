@@ -1,0 +1,53 @@
+{
+
+    "id": "ajenjo", 
+
+    "nombre": "Ajenjo",
+
+    "nombreCientifico": "Artemisia absinthium",
+
+    "descripcion": "Es una planta aromática que pueda alcanzar una altura de un metro. Se usa sobre todo para la preparación de licores. Por su peculiar olor es un buen repelente de insectos que no son beneficiosos en nuestra huerta.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Primavera",
+        "diasACosecha": "500 a 600"
+    }, 
+
+    "forma": "Almácigo y transplante o cultivo directo", 
+
+    "clima": "El ajenjo es muy resistente a la sequía una vez que esta establecido en el suelo. También se desarrolla bien en suelos pobres o arenosos. Prefiere estar bien expuesta al sol.",     
+    
+    "cuidadosEspeciales": "Mantener libre de malezas, quitar las hojas secas y regar sólo si es necesario. El exceso de agua y encharcamientos no le resultan beneficiosos.", 
+  
+    "enfermedades": {
+        "enfermedades": "La planta puede ser atacada por hongos, sobre todo durante la primavera. Para prevenirlo es útil el caldo bordolés, y evitar mojar sus hojas al regarlo.", 
+        "insectos": ""
+    },   
+
+    "asociarCon": "Papa, zanahoria, repollo, lechuga", 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 30, 
+        "filas": 50, 
+        "profundidad": 0.5
+    }, 
+
+    "variedades": "Ajenjo común, Ajenjo dulce (Artemisia annua)",
+
+    "informacionAdicional": "",
+
+    "images": [
+        "img/cultivos/ajenjo/ajenjo01.jpg"
+    ]
+
+
+}

@@ -1,0 +1,53 @@
+{
+
+    "id": "eneldo", 
+
+    "nombre": "Eneldo",
+
+    "nombreCientifico": "Anethum graveolens",
+
+    "descripcion": "Originario de Oriente, el eneldo crece espontáneamente en varias partes del mundo, y también es cultivado para su uso como condimento o hierba medicinal.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Principios de primavera (luego de la última helada)",
+        "diasACosecha": "90 a 120"
+    }, 
+
+    "forma": "Directa", 
+
+    "clima": "Necesita sol y buen drenaje. No resiste los fríos extremos. Requiere humedad constante en el suelo, pero regar cuidando de no producir encharcamientos.",     
+    
+    "cuidadosEspeciales": "Las raíces del eneldo son débiles y generalmente no resisten bien a los transplantes. Por eso se recomienda hacer siembra directa, una vez que hayan pasado las heladas, y luego ralear y mantener el suelo libre de malezas.", 
+  
+    "enfermedades": {
+        "enfermedades": "Algunos hongos, como Alternaria sp", 
+        "insectos": "Pulgones"
+    },   
+
+    "asociarCon": "Repollo, Repollo de Bruselas, Coliflor", 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
+    "maceta": {
+        "volumen": 5, 
+        "profundidad": 25
+    }, 
+
+    "huerto": {
+        "plantas": 20, 
+        "filas": 25, 
+        "profundidad": 1
+    }, 
+
+    "variedades": "",
+
+    "informacionAdicional": "Podemos ir cosechando ramas a medida que las necesitamos en la cocina. Cuidar de mantener la huemedad en el suelo y quitar las hojas secas o amarillas.",
+
+    "images": [
+        "img/cultivos/eneldo/eneldo01.jpg"
+    ]
+
+
+}

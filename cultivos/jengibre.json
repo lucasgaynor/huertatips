@@ -1,0 +1,53 @@
+{
+
+    "id": "jengibre", 
+
+    "nombre": "Jengibre",
+
+    "nombreCientifico": "Zingiber officinale", 
+
+    "descripcion": "La planta del jengibre puede llegar a tener 90 cm de altura. Se cultiva para aprovechar su tallo subterráneo, que es un rizoma horizontal. De sabor fuerte y picante, forma parte de muchas recetas de oriente.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Principios de primavera",
+        "diasACosecha": "250"
+    }, 
+
+    "forma": "por rizoma", 
+
+    "clima": "Requiere suelos con buen drenaje. Hay que proteger a la planta de las heladas y resguardarla también del sol muy fuerte.",     
+    
+    "cuidadosEspeciales": "Para empezar a cultivar jengibre podemos buscar en la verdulería un trozo de rizoma que tenga un brote verde, cuidando de que no tenga partes blandas o enfermas. Plantarlo a 5 cm de profundidad con las yemas hacia arriba. ", 
+  
+    "enfermedades": {
+        "enfermedades": "Pueden aparecer hongos, especialmente por exceso de riego o drenaje insuficiente.", 
+        "insectos": "Nemátodos"
+    },   
+
+    "asociarCon": "", 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
+    "maceta": {
+        "volumen": 10, 
+        "profundidad": 35
+    }, 
+
+    "huerto": {
+        "plantas": 40, 
+        "filas": 90, 
+        "profundidad": 5
+    }, 
+
+    "variedades": "",
+
+    "informacionAdicional": "Una vez que los brotes aparecen, es muy beneficioso colocar una capa de mulching para mantener la humedad del suelo. Se cosecha cuando las hojas se van poniendo amarillas, cerca de 10 meses luego de plantado.",
+
+    "images": [
+        "img/cultivos/jengibre/jengibre01.jpg"
+    ]
+
+
+}

@@ -1,5 +1,5 @@
 
-  <div class="container listaDeCultivos">
+  <div class="container-fluid">
   
   <h1 class="text-center">Todos los cultivos</h1>
 
@@ -8,7 +8,7 @@
       Buscar: <input ng-model="query">
     </div>    
 
-  
+
 
       <ul class="cultivosEnMes">     <!--COLUMNA LISTADO-->
         <li ng-repeat="cultivo in cultivos | filter:query" class="thumbnail">

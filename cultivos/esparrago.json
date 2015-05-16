@@ -1,0 +1,53 @@
+{
+
+    "id": "esparrago", 
+
+    "nombre": "Espárrago",
+
+    "nombreCientifico": "Asparagus officinalis", 
+
+    "descripcion": "Se cultiva para comer, una vez cocidos, sus tallos tiernos, llamados turiones. Es un cultivo perenne que demorará de dos a tres años en empezar a producir. Una planta puede vivir hasta 20 años produciendo tallos que se cosechan Se puede cultivar desde semilla o comprar las arañas o garras (raíces engrosadas) para acelerar el proceso.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Primavera",
+        "diasACosecha": "600 a 900"
+    }, 
+
+    "forma": "Directa, o a través de raíces (llamadas arañas) compradas.", 
+
+    "clima": "Resiste altas y bajas temperaturas. Requiere suelos ricos en materia orgánica, por lo que se recomienda abonar el suelo con estiércol o compost unos meses antes de su siembra. Considerar, al elegir el sitio de siembra, que el cultivo es perenne y por lo tanto va a estar en ese sitio por varios años.",     
+    
+    "cuidadosEspeciales": "Si partimos con un cultivo desde semilla, hay que tener paciencia y no cosechar los dos o tres primeros años. Los turiones son necesarios en ese momento para el buen desarrollo del sistema radicular.", 
+  
+    "enfermedades": {
+        "enfermedades": "Fusariosis, rhizoctonia, tizón y antracnosis", 
+        "insectos": "Caracoles y babosas (principalmente en primavera)"
+    },   
+
+    "asociarCon": "Tomate, perejil, albahaca, lechuga", 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
+    "maceta": {
+        "volumen": 15, 
+        "profundidad": 30
+    }, 
+
+    "huerto": {
+        "plantas": 42, 
+        "filas": 90, 
+        "profundidad": 0.5
+    }, 
+
+    "variedades": "Verde de Aubervilliers, Violeta de Holanda, Argenteuil, Mary Washington.",
+
+    "informacionAdicional": "Para cultivar los espárragos verdes, los turiones deben ser cortados al raz del suelo. Para cultivar espárragos blancos, debe preparase un caballón de tierra de entre 30 y 40 centímetros de altura para que el turión crezca debajo. Cuando el turión se insinúa, se corta con un cuchillo largo, descubriendo el turión completo.",
+
+    "images": [
+        "img/cultivos/esparrago/esparrago01.jpg"
+    ]
+
+
+}

@@ -1,0 +1,53 @@
+{
+
+    "id": "estragon", 
+
+    "nombre": "Estragón",
+
+    "nombreCientifico": "Artemisia dracunculus",
+
+    "descripcion": "Es una planta aromática que se cultiva para aprovechar sus hojas, como condimento en comidas o para aromatizar encurtidos y conservas.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Primavera",
+        "diasACosecha": "90 a 100"
+    }, 
+
+    "forma": "Almácigo y transplante, esquejes o cultivo directo", 
+
+    "clima": "Es una planta de climas templados, y hay que protegerla tanto de los calores como de los frios extremos. Requiere sol pleno y no tener exceso de humedad, sobre todo durante el otoño y el invierno. ",     
+    
+    "cuidadosEspeciales": "Antes de sembrar o transplantar, trabajar bien el suelo para facilitar el drenaje. Regar durante el verano para mantener la huemdad constante (evitando encharcamientos) y espaciar los riegos durante los meses fríos.", 
+  
+    "enfermedades": {
+        "enfermedades": "La roya u otros hongos pueden aparecer si hay exceso de humedad en el suelo.", 
+        "insectos": ""
+    },   
+
+    "asociarCon": "", 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
+    "maceta": {
+        "volumen": 2, 
+        "profundidad": 15
+    }, 
+
+    "huerto": {
+        "plantas": 30, 
+        "filas": 50, 
+        "profundidad": 0.5
+    }, 
+
+    "variedades": "Además del estragón común, existe el Artemisia dracunculoides (estragón ruso), de diferente aroma y gusto.",
+
+    "informacionAdicional": "La forma más fácil y segura de multiplicación del estragón es a través de los esquejes. Para favorecer el crecimiento hay que realizar despuntes periódicos.",
+
+    "images": [
+        "img/cultivos/estragon/estragon01.jpg"
+    ]
+
+
+}

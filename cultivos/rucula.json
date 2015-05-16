@@ -6,7 +6,7 @@
 
     "nombreCientifico": "Eruca sativa",
 
-    "descripcion": "De muy fácil cultivo y rápido crecimiento. Tiene sabor picante y queda muy bien junto a otras verduras en ensaladas.", 
+    "descripcion": "Es uno de los cultivos más fáciles y rápidos de la huerta. Tiene sabor picante y queda muy bien junto a otras verduras en ensaladas. Si bien puede cultivarse todo el año, el frío favorece a la rúcula, dándole un sabor más suave y postergando su floración.", 
 
     "calendario": {
         "epocaDeSiembra": "Todo el año",
@@ -15,12 +15,12 @@
 
     "forma": "directa, al voleo", 
 
-    "clima": "Puede cultivarse todo el año. No tiene mayores exigencias en cuanto al suelo.",     
+    "clima": "Puede cultivarse todo el año. No tiene mayores exigencias en cuanto al suelo. En verano se puede cultivar en un lugar al resguardo del sol directo (con una media sombra).",     
     
-    "cuidadosEspeciales": "Se recomienda hacer siembras escalonadas para tener brotes de rúcula de forma permanente.", 
+    "cuidadosEspeciales": "Se recomienda hacer siembras escalonadas para tener brotes de rúcula de forma permanente. Si sembramos al voleo, y quedan muchas plantas demasiado juntas, se puede hacer un raleo, aprovechando las hojas de las plantas más chicas para agregar a una ensalada.", 
   
     "enfermedades": {
-        "enfermedades": "Peronóspora de la rúcula", 
+        "enfermedades": "Esclerotinia, Peronóspora de la rúcula", 
         "insectos": "Orugas"
     },   
 
@@ -32,12 +32,12 @@
     }, 
 
     "huerto": {
-        "plantas": 2, 
-        "filas": 2, 
+        "plantas": 10, 
+        "filas": 15, 
         "profundidad": 1
     }, 
 
-    "variedades": "",
+    "variedades": " Eruca sativa, Diplotaxis tenuifolia (ruqueta) y Diplotaxis muralis (jamargo)",
 
     "informacionAdicional": "Para recolectar semillas es necesario dejar que algunas plantas florezcan. Cuando comienza a secarse el tallo floral, pueden retirarse las semillas de las vainas y conservarlas una vez secas en un sobre de papel.",
 

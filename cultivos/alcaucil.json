@@ -1,0 +1,53 @@
+{
+
+    "id": "alcaucil", 
+
+    "nombre": "Alcaucil",
+
+    "nombreCientifico": "Cynara cardunculus var. scolymus", 
+
+    "descripcion": "Se trata de un cultivo perenne, por lo que, al plantarlo, debemos elegir bien el lugar en nuestra huerta, considerando que la planta estará en ese lugar por cinco o seis años. Los alcauciles son los pimpollos de la flor, que se cosechan antes de que abran. Después de la floración la planta muere, pero nacen los hijuelos que darán nuevos alcauciles el año próximo.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Fines de verano y otoño",
+        "diasACosecha": "220"
+    }, 
+
+    "forma": "Almácigo y transplante o por división de matas", 
+
+    "clima": "Responde bien a suelos ricos en materia orgánica. La planta no resiste las heladas, por lo que es bueno, en invierno, podar la planta al ras del suelo y cubrirla con una capa de mulch.",     
+    
+    "cuidadosEspeciales": "", 
+  
+    "enfermedades": {
+        "enfermedades": "Mildiu, podredumbre gris, oidio.", 
+        "insectos": "Mosca blanca, pulgón."
+    },   
+
+    "asociarCon": "Habas, repollo, lechuga.", 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
+    "maceta": {
+        "volumen": 30, 
+        "profundidad": 45
+    }, 
+
+    "huerto": {
+        "plantas": 150, 
+        "filas": 90, 
+        "profundidad": 5
+    }, 
+
+    "variedades": "",
+
+    "informacionAdicional": "Una planta puede producir hasta 20 alcauciles.",
+
+    "images": [
+        "img/cultivos/alcaucil/alcaucil01.jpg"
+    ]
+
+
+}

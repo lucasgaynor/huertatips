@@ -1,0 +1,53 @@
+{
+
+    "id": "lemonGrass", 
+
+    "nombre": "Lemon grass",
+
+    "nombreCientifico": "Cymbopogon citratus", 
+
+    "descripcion": "De la especie botánica de las gramíneas, puede alcanzar una altura de hasta un metro y medio. Forma parte de muchas recetas del  sudeste asiático.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Desde el otoño hasta principios de primavera",
+        "diasACosecha": "80 a 100"
+    }, 
+
+    "forma": "Por división de matas.", 
+
+    "clima": "Es una planta, originalmente, de clima tropical o subtropical. Las heladas povocan quemaduras en sus hojas, por lo que es necesario protegerla de los fríos extremos. Requiere mucho riego, pero no se desarrolla bien si los suelos se encharcan.",     
+    
+    "cuidadosEspeciales": "Carpir periodicamenente y mantener el suelo libre de malezas.", 
+  
+    "enfermedades": {
+        "enfermedades": "Es una planta resistente a plagas y enfermedades.", 
+        "insectos": ""
+    },   
+
+    "asociarCon": "", 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
+    "maceta": {
+        "volumen": 2, 
+        "profundidad": 15
+    }, 
+
+    "huerto": {
+        "plantas": 80, 
+        "filas": 50, 
+        "profundidad": 0.5
+    }, 
+
+    "variedades": "",
+
+    "informacionAdicional": "Un buen momento para realizar la cosecha es cuando el tallo toma un tono rojizo y las puntas de las hojas comienzan a amarillear. Se corta con cuchillo, y se puede dejar la raíz para que vuelva a brotar.",
+
+    "images": [
+        "img/cultivos/lemonGrass/lemonGrass01.jpg"
+    ]
+
+
+}

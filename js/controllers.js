@@ -28,7 +28,7 @@ calendarioControllers.controller('TareasListCtrl', ['$scope', '$http',
       $scope.meses = data;
     });
 
-    $scope.date = new Date();
+
 
   }]);
 

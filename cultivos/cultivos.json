@@ -6,16 +6,34 @@
         "name": "Acelga"
     }, 
     {
+        "age": [8, 9, 10], 
+        "id": "ajenjo", 
+        "imageUrl": "img/cultivos/ajenjo/ajenjo01.jpg", 
+        "name": "Ajenjo"
+    }, 
+    {
         "age": [3, 4, 5],
         "id": "ajo", 
         "imageUrl": "img//cultivos/ajo/ajo01.jpg", 
         "name": "Ajo" 
+    }, 
+        {
+        "age": [4, 5, 9],
+        "id": "akusay", 
+        "imageUrl": "img//cultivos/akusay/akusay01.jpg", 
+        "name": "Akusay" 
     }, 
     {
         "age": [8, 9], 
         "id": "albahaca", 
         "imageUrl": "img//cultivos/albahaca/albahaca01.jpg", 
         "name": "Albahaca" 
+    }, 
+    {
+        "age": [3,4,5], 
+        "id": "alcaucil", 
+        "imageUrl": "img//cultivos/alcaucil/alcaucil01.jpg", 
+        "name": "Alcaucil" 
     }, 
     {
         "age": [1, 2, 3, 4, 9, 10, 11, 12],
@@ -72,7 +90,7 @@
         "name": "Cebollino" 
     }, 
     {
-        "age": [0], 
+        "age": 0, 
         "id": "cilantro", 
         "imageUrl": "img/cultivos/cilantro/cilantro01.jpg", 
         "name": "Cilantro" 
@@ -84,16 +102,34 @@
         "name": "Coliflor" 
     }, 
     {
+        "age": [9, 10], 
+        "id": "eneldo", 
+        "imageUrl": "img/cultivos/eneldo/eneldo01.jpg", 
+        "name": "Eneldo" 
+    }, 
+    {
         "age": 0, 
         "id": "escarola", 
         "imageUrl": "img/cultivos/escarola/escarola01.jpg", 
         "name": "Escarola" 
+    }, 
+    {
+        "age": [9, 10], 
+        "id": "esparrago", 
+        "imageUrl": "img/cultivos/esparrago/esparrago01.jpg", 
+        "name": "Espárrago" 
     },     
     {
         "age": [3, 4, 5, 6, 7, 8], 
         "id": "espinaca", 
         "imageUrl": "img/cultivos/espinaca/espinaca01.jpg", 
         "name": "Espinaca" 
+    }, 
+    {
+        "age": [8,9,10], 
+        "id": "estragon", 
+        "imageUrl": "img/cultivos/estragon/estragon01.jpg", 
+        "name": "Estragón" 
     }, 
     {
         "age": [4,5,6,7],
@@ -108,6 +144,12 @@
         "name": "Hinojo" 
     }, 
     {
+        "age": [8,9],
+        "id": "jengibre", 
+        "imageUrl": "img/cultivos/jengibre/jengibre01.jpg", 
+        "name": "Jengibre" 
+    }, 
+    {
         "age": [3,4,5,6],
         "id": "kale", 
         "imageUrl": "img/cultivos/kale/kale01.jpg", 
@@ -118,6 +160,12 @@
         "id": "lechuga", 
         "imageUrl": "img/cultivos/lechuga/lechuga01.jpg", 
         "name": "Lechuga" 
+    }, 
+        {
+        "age": [4,5,6,7,8], 
+        "id": "lemonGrass", 
+        "imageUrl": "img/cultivos/lemonGrass/lemonGrass01.jpg", 
+        "name": "Lemon grass" 
     }, 
     {
         "age": [9,10,11], 
@@ -202,6 +250,12 @@
         "id": "repollo", 
         "imageUrl": "img/cultivos/repollo/repollo01.jpg", 
         "name": "Repollo" 
+    },
+    {
+        "age": [1,2], 
+        "id": "repolloDeBruselas", 
+        "imageUrl": "img/cultivos/repolloDeBruselas/repolloDeBruselas01.jpg", 
+        "name": "Repollo de Bruselas" 
     },
     {
         "age": [3, 4, 5, 6],

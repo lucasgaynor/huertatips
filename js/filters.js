@@ -17,19 +17,27 @@ angular.module('calendarioFilters',[]).filter('filtroMes', function(){
 })
 
 
+
 .filter('filtroTarea', function(){
-    return function(tareas, name){
-        
+    return function(tareas, nombre){
+
+        var d = new Date();
+        var n = d.getMonth();
+        var mesEnCurso = n + 1;
+
         var arrayToReturn = [];        
         for (var i=0; i<tareas.length; i++){
-            if ((tareas[i].mes == 0)  ||  (tareas[i].mes == this.mes.age) || (typeof tareas[i].mes == "object" && tareas[i].mes.indexOf(this.mes.age) >= 0)) {
+            if ((tareas[i].mes == 0)  ||  (tareas[i].mes == mesEnCurso)) {
                 arrayToReturn.push(tareas[i]);
             } 
         }
         
         return arrayToReturn;
     };
-});
+})
+
+
+;
 
 
 

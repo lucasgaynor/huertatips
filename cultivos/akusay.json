@@ -1,0 +1,53 @@
+{
+
+    "id": "akusay", 
+
+    "nombre": "Akusay",
+
+    "nombreCientifico": "Brassica campestris var. pekinensis", 
+
+    "descripcion": "El akusay, o repollo chino, tiene la ventaja de crecer mucho más rápido que el repollo común. Forma parte de muchas recetas asiáticas, y se puede comer tanto crudo como cocido.", 
+
+    "calendario": {
+        "epocaDeSiembra": "Otoño y primavera",
+        "diasACosecha": "30 a 60"
+    }, 
+
+    "forma": "Directa o amácigo y transplante", 
+
+    "clima": "En climas muy fríos es preferible realizar la siembra en otoño.",     
+    
+    "cuidadosEspeciales": "Desmalezar y mantener la humedad del suelo. Pueden blanquearse sus hojas, una semana antes de la cosecha, cubriendo los repollos con papel de diario ", 
+  
+    "enfermedades": {
+        "enfermedades": "", 
+        "insectos": "Pulgón, caracoles y babosas."
+    },   
+
+    "asociarCon": "Acelga, apio, berenjena, calabaza, cebolla, escarola, espinaca, tomate, zanahoria.", 
+
+    "plagasListaEnCultivo": [
+
+                ], 
+
+    "maceta": {
+        "volumen": 15, 
+        "profundidad": 30
+    }, 
+
+    "huerto": {
+        "plantas": 25, 
+        "filas": 35, 
+        "profundidad": 0.5
+    }, 
+
+    "variedades": "Tipi Chihili (cabeza alargada) y Wong bok (redondeado).",
+
+    "informacionAdicional": "Por su rápido crecimiento, se pueden hacer siembras escalonadas para hacer cosechas sucesivas. La cosecha se hace cortando el tallo al raz del suelo y luego se remueve la raíz. Se realiza la cosecha antes de que las plantas florezcan para obtener hojas más tiernas.",
+
+    "images": [
+        "img/cultivos/akusay/akusay01.jpg"
+    ]
+
+
+}
